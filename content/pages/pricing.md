@@ -20,7 +20,6 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature three
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1

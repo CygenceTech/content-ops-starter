@@ -205,7 +205,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Choose ETECH for Your Security Risk Assessments Needs
+      text: Choose Cygece for Your AI Security Risk Assessments Needs
       color: text-dark
     subtitle: ''
     text: >

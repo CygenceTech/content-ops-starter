@@ -115,7 +115,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Managed IT Services
+        title: Managed AI Services
         tagline: ''
         subtitle: ''
         text: ''

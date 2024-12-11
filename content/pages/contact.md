@@ -8,7 +8,7 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: ''
-    text: "ETECH IT\n\n**Address**: 777 Brickell Ave Miami, FL 3313\n\n**Phone**:\_[954-289-0373](tel:954-289-0373)\n\n**Email**: \_[info@etechitsupport.com](mailto:info@etechitsupport.com)\n"
+    text: "Cygence\n\n**Phone**:\_[201-](tel:954-289-0373)[984-3726](tel:954-289-0373)\n\n**Email**: \_<info@cygencetech.com>\n"
     actions: []
     media:
       type: FormBlock

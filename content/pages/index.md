@@ -713,7 +713,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Cygence
+  metaTitle: Cygence Technology
   metaDescription: Augmenting Realistic Intelligence Technology
   type: Seo
   metaTags:

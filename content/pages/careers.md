@@ -103,10 +103,9 @@ sections:
         type: FeaturedItem
       - title: AI Engineer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Design and develop cutting-edge AI models, optimizing algorithms and
+          systems for real-world applications.
         colors: bg-neutral-fg-dark
         styles:
           self:

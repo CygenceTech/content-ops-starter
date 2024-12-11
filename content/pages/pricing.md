@@ -84,7 +84,12 @@ sections:
           Tailored AI solutions with full customization, enterprise-level
           support, and dedicated resources to drive complex projects.
         features:
-          - Feature one
+          - >-
+            Fully customizable AI solutions and architecture. Unlimited API
+            usage and faster processing. Dedicated account manager and 24/7
+            support. On-premise deployment options. Scalability for large teams
+            and data sets. Exclusive access to cutting-edge AI features.
+            Advanced security and compliance features
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3

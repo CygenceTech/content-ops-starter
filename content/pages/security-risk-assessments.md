@@ -173,14 +173,6 @@ sections:
     styles:
       self:
         alignItems: center
-    media:
-      type: ImageBlock
-      url: /images/secandcompliance.png
-      altText: ''
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     title:
       type: TitleBlock

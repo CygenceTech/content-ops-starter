@@ -586,13 +586,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has been a reliable partner in managing our IT services. Their
-          expertise in network security and system optimization has greatly
-          improved our productivity. The custom solutions they designed for our
-          specific needs have streamlined our processes, reducing costs and
-          enhancing efficiency. ETECH’s dedication to excellence is evident in
-          everything they do."
-
+          "Cygence has been a reliable partner in managing our AI services.
+          Their expertise in network security and system optimization has
+          greatly improved our productivity. The custom solutions they designed
+          for our specific needs have streamlined our processes, reducing costs
+          and enhancing efficiency. Cygence dedication to excellence is evident
+          in everything they do."
 
 
           *— John M., Operations Manager, Manufacturing Company*

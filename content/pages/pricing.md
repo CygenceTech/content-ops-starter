@@ -46,9 +46,9 @@ sections:
       - title: Professional
         price: $200
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Unlock advanced AI capabilities with additional features, faster
+          processing, and priority support for growing businesses.
         features:
           - Feature one
           - Feature two

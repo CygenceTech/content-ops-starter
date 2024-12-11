@@ -1,8 +1,9 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Accept_Risk.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "ETECH",
+    "defaultSocialImage": "/images/Accept_Risk.png",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": []
 }

@@ -1,8 +1,10 @@
 {
-    "name": "ETECH IT",
+    "type": "Person",
+    "name": "Managed IT Services",
     "role": "",
     "image": {
-        "url": "/images/avatar1.svg",
+        "type": "ImageBlock",
+        "url": "/images/managedit-removebg-preview.png",
         "altText": "",
         "styles": {
             "self": {
@@ -11,8 +13,7 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
     "styles": {
@@ -31,6 +32,5 @@
             "justifyContent": "center"
         }
     },
-    "type": "Person",
-    "bio": ""
+    "bio": "Working with a managed IT company brings you access to a range of skill sets, from those who can consult on the best wiring for your next IT project, to those with compliance expertise in your area of business. With us handling your IT, you’ll have one less thing to worry about.\n"
 }

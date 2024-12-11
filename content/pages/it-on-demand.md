@@ -46,7 +46,7 @@ sections:
         text: "Did your AI Engineer just move to another job, leaving you high and dry? Are you struggling with AI problems that you don’t know how to fix? Do you need help with your AI but don’t know where to turn? Call us. We’re ready to work with you to handle whatever AI challenge comes your way.\n\nWe also offer pre-paid service blocks, which you can buy ahead of time and decide how to spend later.\_So when a server goes down, a malware attack threatens your security, or a power loss leaves you without access to your database, we’re on hand to resolve the situation as fast as possible. You can focus on the immediate concern, knowing your costs are already covered.\n"
         image:
           type: ImageBlock
-          url: /images/itneeds.png
+          url: /images/Screenshot 2024-12-11 at 4.00.44 PM.png
           altText: Featured item
           styles:
             self:

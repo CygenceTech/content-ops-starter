@@ -80,9 +80,9 @@ sections:
       - title: Enterprise
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Tailored AI solutions with full customization, enterprise-level
+          support, and dedicated resources to drive complex projects.
         features:
           - Feature one
           - Feature two

@@ -657,7 +657,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Not sure what your business needs to take its IT to the next level?
+      text: Not sure what your business needs to take its AI to the next level?
       color: text-dark
       type: TitleBlock
     subtitle: We can help! Contact us for a free consultation.

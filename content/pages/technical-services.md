@@ -13,7 +13,7 @@ sections:
     subtitle: >-
       We provide the project planning, technical assessment, and technology
       skills required to complete unique and demanding projects—everything you
-      need to manage your IT.
+      need to manage your AI.
     text: ''
     actions: []
     colors: bg-dark-fg-light
@@ -49,26 +49,25 @@ sections:
       ###### **For Businesses**
 
 
-      We offer comprehensive IT solutions for a wide range of needs. Whether
+      We offer comprehensive AI solutions for a wide range of needs. Whether
       that means aiding you in your transition to the cloud, helping you meet
       industry compliance standards, bulking up your security, or filling a
       staffing void—we can support you. We work to ensure that our services will
       match any budget, and scale for the future.
 
 
-      Interested in the solutions we offer? Contact us for a free IT assessment
+      Interested in the solutions we offer? Contact us for a free AI assessment
       to learn how we can grow your business.
 
 
-      [Request
-      Assessment](https://etechitservice.com/service/network-assessment/)
+      [Request Assessment](https://cygencetech.com/service/network-assessment/)
 
 
-      ###### **For I.T. Companies**
+      ###### **For AI Companies**
 
 
       We know you have an established relationship with your clients to provide
-      a specific set of IT services, but there are some needs you cannot fill.
+      a specific set of AI services, but there are some needs you cannot fill.
       Let us make up the difference. We’re happy to work with you to service the
       needs of your client in whatever capacity—and to any degree of
       transparency—you require.
@@ -78,7 +77,7 @@ sections:
       each other, let’s talk.
 
 
-      [Contact Us](https://etechitservice.com/contact)
+      [Contact Us](https://cygencetech.com/contact)
     actions:
       - type: Button
         label: Get started
@@ -116,7 +115,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Managed IT Services
+        title: Managed AI Services
         tagline: ''
         subtitle: ''
         text: ''

@@ -68,8 +68,8 @@ sections:
           they become a problem, and develop solutions to mitigate those risks.
 
 
-          By working with ETECH IT to conduct regular SRAs, businesses can
-          ensure that their confidential data is safe and secure.
+          By working with Cygence to conduct regular SRAs, businesses can ensure
+          that their confidential data is safe and secure.
 
 
           There are a number of different methods that can be used to conduct a

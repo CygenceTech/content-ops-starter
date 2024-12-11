@@ -714,7 +714,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cygence
-  metaDescription: ETECH IT Services
+  metaDescription: Augmented Realistic Intelligence
   type: Seo
   metaTags: []
   socialImage: /images/favicon.ico

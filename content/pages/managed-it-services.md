@@ -11,7 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: "\_ETECH IT offers managed IT services whenever and wherever you need it.\n"
+    text: >
+      Cygence Technology offers managed AI services whenever and wherever you
+      need it.
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:

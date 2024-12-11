@@ -716,7 +716,8 @@ seo:
   metaTitle: Cygence Technology
   metaDescription: Augmenting Realistic Intelligence
   type: Seo
-  metaTags: []
+  metaTags:
+    - type: MetaTag
   socialImage: /images/Screenshot 2024-12-11 at 11.40.40 PM.png
   addTitleSuffix: true
 type: PageLayout

@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: MSP Cloud Security
+      text: AI Cloud Security
       color: text-light
     subtitle: ''
     text: >
@@ -44,12 +44,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ETECH Cloud Security is a multilayered security solution leveraging an
-          extensive set of systems hardening, threat prevention and detection
-          technologies as well as machine learning and behavioral analysis to
-          provide advanced attack protection. It enables you to maximize remote
-          work protection, build resilience against sophisticated ransomware
-          attacks and breaches, and grow profits.
+          Cygence AI Cloud Security is a multilayered security solution
+          leveraging an extensive set of systems hardening, threat prevention
+          and detection technologies as well as machine learning and behavioral
+          analysis to provide advanced attack protection. It enables you to
+          maximize remote work protection, build resilience against
+          sophisticated ransomware attacks and breaches, and grow profits.
         actions: []
         colors: bg-dark-fg-light
         styles:

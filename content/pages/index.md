@@ -712,7 +712,5 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-seo:
-  type: Seo
 type: PageLayout
 ---

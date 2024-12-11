@@ -169,7 +169,7 @@ sections:
       - type: FeaturedItem
         title: Position
         subtitle: ''
-        text: "With the rate of technological change transforming every corner of \nthe economy, businesses must be adaptable to keep pace. Managed IT \nservices provide a crucial role in helping businesses make the best use \nof their resources. We strategize with businesses to find the solutions \nthat will leave them well-placed to take advantage of opportunities as \nthey\_arise.\n"
+        text: "With the rate of technological change transforming every corner of\nthe economy, businesses must be adaptable to keep pace. Managed AI\nservices provide a crucial role in helping businesses make the best use\nof their resources. We strategize with businesses to find the solutions\nthat will leave them well-placed to take advantage of opportunities as\nthey\_arise.\n"
         image:
           type: ImageBlock
           url: /images/p2-dark-1-removebg-preview.png

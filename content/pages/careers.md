@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: AI teams that work closely together
       color: text-dark
       styles:
         self:
@@ -85,10 +85,9 @@ sections:
     items:
       - title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Drive client relationships and sales strategies, helping businesses
+          harness the power of AI solutions.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,12 +101,11 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: AI Engineer
+        subtitle: Artificial Intelligence Engineering
+        text: >
+          Design and develop cutting-edge AI models, optimizing algorithms and
+          systems for real-world applications.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -123,10 +121,9 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Lead software development efforts, building scalable and efficient
+          AI-driven solutions in a fast-paced environment.
         colors: bg-neutral-fg-dark
         styles:
           self:

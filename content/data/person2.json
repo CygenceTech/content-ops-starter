@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "",
-    "role": "",
+    "name": "Gene Neus",
+    "role": "Chief AI Officer",
     "image": {
         "url": "/images/avatar2.svg",
         "altText": "Faizah Chan",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Gene Neus is the Chief AI Officer, leading the development and implementation of advanced AI strategies to drive innovation and business growth.\n"
 }

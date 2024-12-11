@@ -138,10 +138,6 @@ sections:
       *   Post-incident review and follow-up
 
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/shield.png
-      altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
       self:

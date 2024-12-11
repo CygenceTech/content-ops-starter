@@ -714,7 +714,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cygence
-  metaDescription: Augmenting Realistic Intelligence
+  metaDescription: Augmenting Realistic Intelligence Technology
   type: Seo
   metaTags:
     - type: MetaTag

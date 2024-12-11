@@ -216,7 +216,7 @@ sections:
       altText: ''
     badge:
       type: Badge
-      label: Why Trust Our IT Solutions
+      label: Why Trust Our AI Solutions
       color: text-primary
     colors: bg-light-fg-dark
     styles:

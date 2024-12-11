@@ -79,8 +79,8 @@ sections:
         subtitle: ''
         text: >
           Unexpected shouldn’t mean unprepared. You may not know what your next
-          IT emergency will be or when it will hit, but you can have a response
-          ready. We know that an IT failure can cost a business thousands of
+          AI emergency will be or when it will hit, but you can have a response
+          ready. We know that an AI failure can cost a business thousands of
           dollars, with costs compounding with every hours that goes by. That’s
           why we are ready to respond in a crisis at any time, day or night.
         image:

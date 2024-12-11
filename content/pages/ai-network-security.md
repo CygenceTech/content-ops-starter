@@ -8,9 +8,9 @@ sections:
       text: Revolutionizing Infrastructure with AI
       color: text-dark
     subtitle: ''
-    text: >-
+    text: >
       In today’s rapidly evolving digital landscape, the efficient management of
-      IT infrastructure is paramount for businesses to stay competitive and
+      AI infrastructure is paramount for businesses to stay competitive and
       agile. With the advent of Artificial Intelligence (AI), traditional
       approaches to IT infrastructure management are undergoing a profound
       transformation. AI is not just a buzzword; it’s a game-changer, offering

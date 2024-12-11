@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Premier Technology Company
+      text: Premier AI Technology Company
       color: text-dark
     subtitle: ''
     text: |

@@ -555,10 +555,10 @@ sections:
         subtitle: ''
         text: >
           "As a healthcare provider, protecting patient data is paramount.
-          ETECH's comprehensive cybersecurity framework has been instrumental in
-          safeguarding our sensitive information. Their proactive monitoring and
-          quick response to potential threats have been exceptional. We highly
-          recommend ETECH to any organization looking for robust IT and
+          Cygence's comprehensive cybersecurity framework has been instrumental
+          in safeguarding our sensitive information. Their proactive monitoring
+          and quick response to potential threats have been exceptional. We
+          highly recommend Cygence to any organization looking for robust AI and
           cybersecurity solutions."
 
           *— Dr. Emily R., Director of IT, Healthcare Provider*

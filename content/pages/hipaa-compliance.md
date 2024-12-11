@@ -112,11 +112,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Don't take a chance with your company's data. ETECH IT offers HIPAA
-      compliance services to businesses of all kinds in the medical industry. We
-      offer comprehensive services that will help you stay on top of HIPAA
-      compliance requirements and reduce risk exposure for data breaches or
-      other violations.Contact Us Call Us: (718) 737-9169
+      Don't take a chance with your company's data. Cygence Technology offers
+      HIPAA compliance services to businesses of all kinds in the medical
+      industry. We offer comprehensive services that will help you stay on top
+      of HIPAA compliance requirements and reduce risk exposure for data
+      breaches or other violations. Contact Us Today.
     actions: []
     media:
       type: FormBlock

@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      IT specializations with breadth and depth.
+      AI specializations with breadth and depth.
     actions: []
     media:
       type: ImageBlock

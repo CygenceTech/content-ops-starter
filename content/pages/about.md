@@ -191,7 +191,7 @@ sections:
       - type: FeaturedItem
         title: Protect
         subtitle: ''
-        text: "No IT system is free from risk. Businesses of every size need to \nguard against data leaks, security breaches, and exploitable weaknesses \ndue to human error. But keeping data safe also requires protection from \naccident and system failure. We follow industry compliance standards \nthat not only safeguard data privacy, but also aid in backup \nand\_recovery.\n"
+        text: "No AI system is free from risk. Businesses of every size need to\nguard against data leaks, security breaches, and exploitable weaknesses\ndue to human error. But keeping data safe also requires protection from\naccident and system failure. We follow industry compliance standards\nthat not only safeguard data privacy, but also aid in backup\nand\_recovery.\n"
         image:
           type: ImageBlock
           url: /images/p3-dark-1-removebg-preview.png

@@ -49,7 +49,8 @@ sections:
         description: >
           Unlock advanced AI capabilities with additional features, faster
           processing, and priority support for growing businesses.
-        features: []
+        features:
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2

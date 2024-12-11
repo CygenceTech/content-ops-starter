@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: MSP Cloud Security
+      text: AI Cloud Security
       color: text-light
     subtitle: ''
     text: >

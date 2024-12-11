@@ -50,7 +50,12 @@ sections:
           Unlock advanced AI capabilities with additional features, faster
           processing, and priority support for growing businesses.
         features:
-          - Collaboration tools for teams
+          - >-
+            Access to premium AI algorithms and models. Increased API usage and
+            faster processing speeds. Advanced analytics and reporting tools.
+            Priority email support. Customizable training datasets.
+            Collaboration tools for teams. Integrations with third-party
+            platforms
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2

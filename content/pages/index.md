@@ -226,7 +226,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Technical IT Solutions
+      text: Technical AI Solutions
       color: text-dark
       styles:
         self:

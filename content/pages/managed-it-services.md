@@ -153,13 +153,13 @@ sections:
         tagline: ''
         subtitle: In-House Partnering
         text: >
-          Many companies have internal IT staff who have served as loyal
-          employees for years. We can work with them to help your IT department
+          Many companies have internal AI staff who have served as loyal
+          employees for years. We can work with them to help your AI department
           function more efficiently. Most commonly, we help fill staffing voids
           that arise when a team member falls ill, takes a vacation, or goes on
-          parental leave. Or, we can supply an IT specialist to consult on a
+          parental leave. Or, we can supply an AI specialist to consult on a
           case-by-case basis. We can even take over regular maintenance work so
-          as to free the internal resources of your IT department to tackle new
+          as to free the internal resources of your AI department to tackle new
           development initiatives for the company. Whatever you’re looking for,
           we can help you devise a solution.
         image:

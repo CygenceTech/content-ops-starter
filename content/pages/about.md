@@ -134,7 +134,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our Take on IT.
+      text: Our Take on AI.
       color: text-dark
       styles:
         self:

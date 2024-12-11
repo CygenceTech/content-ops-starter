@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Invest in IT solutions that prepare you for anything.
+      Invest in AI solutions that prepare you for anything.
     actions:
       - label: Get started
         altText: ''

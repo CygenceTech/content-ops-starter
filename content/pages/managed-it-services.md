@@ -47,7 +47,7 @@ sections:
         text: "What if you could expand the capabilities and expertise of your IT department without having to hire more staff? That’s what we’re here to do. An in-house IT department requires a lot of overhead, and even companies that benefit from full-time staff still find it necessary to look elsewhere for specialized skills.\n\nThat’s where we come in.\_**Using our managed IT services**\_brings you access to a range of skill sets, from those who can consult on the best wiring for you next IT project to those with compliance expertise in your area of business.With us handling your IT, you’ll have one less thing to worry about.\n"
         image:
           type: ImageBlock
-          url: /images/Screenshot 2024-07-03 at 12.45.44 PM.png
+          url: /images/Screenshot 2024-12-11 at 11.07.09 PM.png
           altText: Featured item
           styles:
             self:

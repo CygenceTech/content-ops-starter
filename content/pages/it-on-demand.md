@@ -113,7 +113,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Are you an IT company in search of a specialized partner?
+        title: Are you an AI company in search of a specialized partner?
         tagline: ''
         subtitle: ''
         text: >

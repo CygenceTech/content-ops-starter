@@ -719,6 +719,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:url'
+      content: Artificial Intelligence Engineering
   socialImage: /images/Screenshot 2024-12-11 at 11.40.40 PM.png
   addTitleSuffix: true
 type: PageLayout

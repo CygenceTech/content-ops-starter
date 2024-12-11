@@ -28,8 +28,9 @@ sections:
 
 
       Whether you’re looking to teach your employees how to avoid becoming a
-      phishing victim or need advanced security training for your IT team, ETECH
-      has the solutions to help keep your business protected against cybercrime.
+      phishing victim or need advanced security training for your IT team,
+      Cygence Technology has the solutions to help keep your business protected
+      against cybercrime.
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:

@@ -63,7 +63,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ### [AI Support](https://etechitservice.com/it-on-demand/)
+          ### [AI Support](https://www.cygencetech.com/it-on-demand/)
 
 
           We offer AI Services on Demand in either monthly or block hours, so

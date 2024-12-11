@@ -81,7 +81,7 @@ sections:
           A sluggish network connection isn’t just irritating for users—it also
           adversely affects business performance, leading to delays and loss of
           productivity. Many businesses assume the source of these delays lies
-          in poor bandwidth. However, before you invest your entire IT budget in
+          in poor bandwidth. However, before you invest your entire AI budget in
           an upgrade, it’s important you gain a fuller picture of how your
           current network allocates resources.
 

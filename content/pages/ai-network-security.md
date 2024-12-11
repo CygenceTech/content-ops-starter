@@ -21,7 +21,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: /contact-us
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary

@@ -238,7 +238,7 @@ sections:
         price: ''
         details: ''
         description: |+
-          #### [Managed IT](https://etechitservice.com/managed-it-services/)
+          #### [Managed AI](https://www.cygencetech.com/managed-it-services/)
 
         features: []
         image:

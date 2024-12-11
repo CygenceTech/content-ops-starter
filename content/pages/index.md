@@ -718,6 +718,6 @@ seo:
   type: Seo
   metaTags: []
   socialImage: /images/favicon.ico
-  addTitleSuffix: false
+  addTitleSuffix: true
 type: PageLayout
 ---

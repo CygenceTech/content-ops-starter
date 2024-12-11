@@ -185,24 +185,24 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A secure position in the marketplace requires an IT partner who won’t
-      leave you unprepared. At ETECH, we guard against security threats through
-      data breach protection and stringent adherence to compliance regulations.
-      Our proactive management will prepare you for emergencies, while cloud
-      solutions future-proof your infrastructure.
+      A secure position in the marketplace requires an AI partner who won’t
+      leave you unprepared. At Cygence, we guard against security threats
+      through data breach protection and stringent adherence to compliance
+      regulations. Our proactive management will prepare you for emergencies,
+      while cloud solutions future-proof your infrastructure.
 
 
-      For over a decade, our Miami-based IT management company has been
-      assisting organizations of every size make the most of their IT budget. We
-      have designed efficient managed IT solutions for a range of complex
-      problems. Whether that means integrating your business with a cloud-based
+      For over a decade, our AI management company has been assisting
+      organizations of every size make the most of their AI budget. We have
+      designed efficient managed AI solutions for a range of complex problems.
+      Whether that means integrating your business with a cloud-based
       environment, providing a comprehensive security plan, or ensuring your
       critical data is backed up and easily accessible, we can bring your
       business to the next level.
 
 
       Bottom line: we’ll guide you every step of the way, so you’ll understand
-      everything your IT does for you.
+      everything your AI does for you.
     actions:
       - type: Button
         label: Get started

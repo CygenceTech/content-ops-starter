@@ -527,12 +527,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has revolutionized our IT infrastructure. Their cloud solutions
-          have made our operations more efficient and scalable, allowing us to
-          handle peak traffic seamlessly. The level of security they provide
-          gives us and our customers peace of mind. ETECH's support team is
-          always just a call away, ensuring we have zero downtime."
-
+          "Cygence Technology has revolutionized our AI infrastructure. Their
+          cloud solutions have made our operations more efficient and scalable,
+          allowing us to handle peak traffic seamlessly. The level of security
+          they provide gives us and our customers peace of mind. Cygence's
+          support team is always just a call away, ensuring we have zero
+          downtime."
 
 
           *— Mark P., CEO, E-commerce Company*

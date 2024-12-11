@@ -65,7 +65,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Call 754-888-3201 or Contact Us
+    subtitle: Call or Contact Us
     items: []
     actions:
       - type: Button

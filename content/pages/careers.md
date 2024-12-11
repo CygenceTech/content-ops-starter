@@ -102,7 +102,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: AI Engineer
-        subtitle: Marketing
+        subtitle: Artificial Intelligence Engineering
         text: >
           Design and develop cutting-edge AI models, optimizing algorithms and
           systems for real-world applications.

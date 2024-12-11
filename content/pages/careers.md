@@ -85,10 +85,9 @@ sections:
     items:
       - title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Drive client relationships and sales strategies, helping businesses
+          harness the power of AI solutions.
         colors: bg-neutral-fg-dark
         styles:
           self:

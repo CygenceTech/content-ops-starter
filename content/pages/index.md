@@ -63,10 +63,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ### [IT Support](https://etechitservice.com/it-on-demand/)
+          ### [AI Support](https://etechitservice.com/it-on-demand/)
 
 
-          We offer IT Services on Demand in either monthly or block hours, so
+          We offer AI Services on Demand in either monthly or block hours, so
           when a server goes down, a malware attack threatens your security, or
           a power loss leaves you without access to your database, we’re on hand
           to resolve the situation as fast as possible.

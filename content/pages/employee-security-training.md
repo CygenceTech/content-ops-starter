@@ -74,12 +74,12 @@ sections:
       ## Benefits of Outsourcing Employee Training
 
 
-      ETECH offers comprehensive employee training services to help employees
+      Cygence offers comprehensive employee training services to help employees
       recognize, respond to, and recover from cyber threats. Our experienced
-      cybersecurity technicians and frontline technology can help your employees
-      develop essential skills for keeping your company’s data secure. Since no
-      situation is one-size-fits-all, we offer a wide range of services to
-      ensure you get what you need.
+      cybersecurity technicians and front-line technology can help your
+      employees develop essential skills for keeping your company’s data secure.
+      Since no situation is one-size-fits-all, we offer a wide range of services
+      to ensure you get what you need.
 
 
       We teach employees how to:
@@ -98,8 +98,8 @@ sections:
 
 
       Whether you need a comprehensive training program for your entire
-      workforce or on-demand training for specific employees, ETECH has the
-      tools and expertise you need to stay protected against cybercrime.
+      workforce or on-demand training for specific employees, Cygence has the
+      tools and expertise you need to stay protected against cyber-crime.
     actions: []
     media:
       type: ImageBlock

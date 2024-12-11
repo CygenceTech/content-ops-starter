@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Top 20 Ways to Save Time at Work This Year
+title: >-
+  Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
+  Information
 date: '2024-05-29'
 author: content/data/person1.json
 excerpt: >-
@@ -14,7 +16,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-slug: /top-twenty-ways-to-save-time
+slug: /why-hipaa-security-is-non-negotiable-for-businesses
 isFeatured: true
 seo:
   type: Seo
@@ -24,8 +26,8 @@ seo:
   metaDescription: >-
     Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
     Information
-  addTitleSuffix: false
   metaTags: []
+  addTitleSuffix: false
 colors: bg-light-fg-dark
 styles:
   self:

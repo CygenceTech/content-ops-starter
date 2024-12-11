@@ -51,7 +51,6 @@ sections:
           processing, and priority support for growing businesses.
         features:
           - Access to premium AI algorithms and models
-          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2

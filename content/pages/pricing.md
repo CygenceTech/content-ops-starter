@@ -85,7 +85,6 @@ sections:
           support, and dedicated resources to drive complex projects.
         features:
           - Feature one
-          - Feature two
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3

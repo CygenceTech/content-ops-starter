@@ -28,8 +28,9 @@ sections:
 
 
       Whether you’re looking to teach your employees how to avoid becoming a
-      phishing victim or need advanced security training for your IT team, ETECH
-      has the solutions to help keep your business protected against cybercrime.
+      phishing victim or need advanced security training for your IT team,
+      Cygence Technology has the solutions to help keep your business protected
+      against cybercrime.
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
@@ -56,7 +57,7 @@ sections:
         textAlign: center
   - type: GenericSection
     subtitle: ''
-    text: "## Why Partner with ETECH?\n\nETECH works with leading software systems to simplify employee awareness training. Using our advanced training portal, your employees can grow confident in their ability to fully utilize every technology tool available to them while using safe practices that enhance business security. We employ video training, written instructions, and live events together to help every employee learn in the most accessible format for them.\_\n\nWith customized training courses, ongoing support, and a wealth of resources at your disposal, we can help you create a strong cybersecurity foundation for your business. Our team of IT experts can help you create an employee training curriculum that covers the most important topics and then some.\n\nETECH offers:\n\n*   In-depth cybersecurity curriculum\n\n*   Rapid response and resolution services\n\n*   Ongoing support and follow-up to ensure your business remains protected\n\nWith ETECH's expertise, you can rest assured knowing that your employees are prepared for and able to respond quickly and effectively to a cyber incident. Contact us today to learn more about our Employee Training services!\n"
+    text: "## Why Partner with Cygence?\n\nCygence works with leading software systems to simplify employee awareness training. Using our advanced training portal, your employees can grow confident in their ability to fully utilize every technology tool available to them while using safe practices that enhance business security. We employ video training, written instructions, and live events together to help every employee learn in the most accessible format for them.\_\n\nWith customized training courses, ongoing support, and a wealth of resources at your disposal, we can help you create a strong cybersecurity foundation for your business. Our team of AI experts can help you create an employee training curriculum that covers the most important topics and then some.\n\nCygence offers:\n\n*   In-depth cybersecurity curriculum\n\n*   Rapid response and resolution services\n\n*   Ongoing support and follow-up to ensure your business remains protected\n\nWith Cygence's expertise, you can rest assured knowing that your employees are prepared for and able to respond quickly and effectively to a cyber incident. Contact us today to learn more about our Employee Training services!\n"
     actions: []
     media:
       type: ImageBlock
@@ -73,12 +74,12 @@ sections:
       ## Benefits of Outsourcing Employee Training
 
 
-      ETECH offers comprehensive employee training services to help employees
+      Cygence offers comprehensive employee training services to help employees
       recognize, respond to, and recover from cyber threats. Our experienced
-      cybersecurity technicians and frontline technology can help your employees
-      develop essential skills for keeping your company’s data secure. Since no
-      situation is one-size-fits-all, we offer a wide range of services to
-      ensure you get what you need.
+      cybersecurity technicians and front-line technology can help your
+      employees develop essential skills for keeping your company’s data secure.
+      Since no situation is one-size-fits-all, we offer a wide range of services
+      to ensure you get what you need.
 
 
       We teach employees how to:
@@ -97,8 +98,8 @@ sections:
 
 
       Whether you need a comprehensive training program for your entire
-      workforce or on-demand training for specific employees, ETECH has the
-      tools and expertise you need to stay protected against cybercrime.
+      workforce or on-demand training for specific employees, Cygence has the
+      tools and expertise you need to stay protected against cyber-crime.
     actions: []
     media:
       type: ImageBlock

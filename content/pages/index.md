@@ -352,8 +352,8 @@ sections:
         price: ''
         details: ''
         description: >+
-          #### [Hardware &
-          Software](https://etechitservice.com/managed-it-services/)
+          #### [AI Hardware &
+          Software](https://www.cygencetech.com/managed-it-services/)
 
         features: []
         image:

@@ -72,7 +72,7 @@ sections:
           to resolve the situation as fast as possible.
         image:
           type: ImageBlock
-          url: /images/itsupport.png
+          url: /images/CNAPP.png
           altText: Business consulting
           elementId: ''
           styles:

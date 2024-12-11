@@ -117,7 +117,7 @@ sections:
       - type: FeaturedItem
         title: Stay on top of your maintenance cycle.
         tagline: ''
-        subtitle: Proactive IT Maintenance
+        subtitle: Proactive AI Support
         text: "Once your IT systems begin to break down, it’s hard to get ahead. All your budget goes to repairing and replacing old systems, patching problems as they emerge, and facing new crises caused by an unexpected data loss or unplanned downtime. By following a\_[proactive maintenance schedule](https://etechitservice.com/it-on-demand/), we help keep your systems running smoothly, so you not only mitigate the risk of an IT failure, but are in a position to take advantage of new opportunities as they arise.\n"
         image:
           type: ImageBlock

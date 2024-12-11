@@ -46,7 +46,7 @@ sections:
         text: "Our clients come to us because they know their networks could be performing better, and they want us to discover how. That’s why our first step is to conduct a thorough IT audit of their systems so that we can see what they have, how it performs, and how we could improve system efficiency.\n\nWe also recommend a network assessment for any company that doesn’t have complete documentation of their current systems.\_Our complimentary network assessment provides a basic overview of your IT systems, which can help us identify the most immediate concerns, but our comprehensive audit package delivers complete documentation of your systems at the deepest level.\n"
         image:
           type: ImageBlock
-          url: /images/networkassesment1.png
+          url: /images/Screenshot 2024-12-11 at 11.07.09 PM.png
           altText: Featured item
           styles:
             self:

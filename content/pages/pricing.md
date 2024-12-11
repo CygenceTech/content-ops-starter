@@ -51,7 +51,7 @@ sections:
           processing, and priority support for growing businesses.
         features:
           - Access to premium AI algorithms and models
-          - Feature two
+          - ''
           - Feature three
           - Feature four
           - ''

@@ -74,7 +74,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 24/7 IT Support
+        title: 24/7 AI Support
         tagline: Cygence Technology
         subtitle: ''
         text: >

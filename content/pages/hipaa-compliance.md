@@ -15,7 +15,7 @@ sections:
 
 
       That’s where we come in. As one of the nation’s top HIPAA consultants,
-      ETECH IT is dedicated to helping businesses become compliant with the
+      Cygence IT is dedicated to helping businesses become compliant with the
       Health Insurance Portability and Accountability Act (HIPAA). We offer
       HIPAA Compliance Services tailored specifically to meet your needs.
     actions: []

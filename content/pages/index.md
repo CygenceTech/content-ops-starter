@@ -620,13 +620,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has transformed our IT landscape with their innovative
+          "Cygence has transformed our AI landscape with their innovative
           solutions and exceptional service. Their cybersecurity measures have
           protected our network from numerous potential attacks, ensuring the
-          safety of our students' and faculty's data. ETECH’s support team is
+          safety of our students' and faculty's data. Cygence’s support team is
           knowledgeable and always ready to help, making them an invaluable
           partner in our digital journey."
-
 
 
           *— Lisa T., Head of IT, Educational Institution*

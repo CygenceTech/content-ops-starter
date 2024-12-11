@@ -296,7 +296,7 @@ sections:
         details: ''
         description: >+
           #### [Network Security &
-          Assessment](https://etechitservice.com/network-assessment/)
+          Assessment](https://www.cygencetech.com/network-assessment/)
 
         features: []
         image:

@@ -53,7 +53,6 @@ sections:
           - Access to premium AI algorithms and models
           - ''
           - Feature three
-          - Feature four
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2

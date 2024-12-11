@@ -69,8 +69,8 @@ Protecting against phishing attacks requires vigilance and reliable cybersecurit
 
 ##### Incident Response Plans: Develop and maintain comprehensive incident response plans to quickly and effectively address phishing attacks if and when they occur.
 
-# Upgrade Your Cybersecurity With ETECH IT
+# Upgrade Your Cybersecurity With Cygence
 
-Phishing attacks are evolving, becoming more sophisticated and harder to detect. However, you don’t have to face these threats alone. At ETECH IT, we specialize in providing comprehensive cybersecurity solutions tailored to protect your business from cyber threats, including thorough phishing prevention strategies.
+Phishing attacks are evolving, becoming more sophisticated and harder to detect. However, you don’t have to face these threats alone. At Cygence, we specialize in providing comprehensive cybersecurity solutions tailored to protect your business from cyber threats, including thorough phishing prevention strategies.
 
-Our team of experts is dedicated to safeguarding your digital assets, ensuring you can focus on running your business with peace of mind. Reach out to us at ETECH IT to schedule a consultation and discover how we can help protect your organization from phishing attacks.
+Our team of experts is dedicated to safeguarding your digital assets, ensuring you can focus on running your business with peace of mind. Reach out to us at Cygence to schedule a consultation and discover how we can help protect your organization from phishing attacks.

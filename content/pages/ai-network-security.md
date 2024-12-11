@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Revolutionizing IT Infrastructure Management with AI
+      text: Revolutionizing Infrastructure with AI
       color: text-dark
     subtitle: ''
     text: >-

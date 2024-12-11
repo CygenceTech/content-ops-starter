@@ -713,7 +713,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: ETECH IT Services
+  metaTitle: Cygence
   metaDescription: ETECH IT Services
   type: Seo
   metaTags: []

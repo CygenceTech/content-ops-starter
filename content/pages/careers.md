@@ -1,6 +1,6 @@
 ---
-title: /Careers
-slug: careers
+title: Careers
+slug: /careers
 sections:
   - title:
       text: AI teams that work closely together

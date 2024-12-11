@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: AI teams that work closely together
       color: text-dark
       styles:
         self:

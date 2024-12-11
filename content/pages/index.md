@@ -717,7 +717,7 @@ seo:
   metaDescription: Augmenting Realistic Intelligence
   type: Seo
   metaTags: []
-  socialImage: /images/favicon.ico
+  socialImage: /images/Screenshot 2024-12-11 at 11.07.09 PM.png
   addTitleSuffix: true
 type: PageLayout
 ---

@@ -50,7 +50,7 @@ sections:
           Unlock advanced AI capabilities with additional features, faster
           processing, and priority support for growing businesses.
         features:
-          - Feature one
+          - Access to premium AI algorithms and models
           - Feature two
           - Feature three
           - Feature four

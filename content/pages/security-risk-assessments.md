@@ -68,8 +68,8 @@ sections:
           they become a problem, and develop solutions to mitigate those risks.
 
 
-          By working with ETECH IT to conduct regular SRAs, businesses can
-          ensure that their confidential data is safe and secure.
+          By working with Cygence to conduct regular SRAs, businesses can ensure
+          that their confidential data is safe and secure.
 
 
           There are a number of different methods that can be used to conduct a
@@ -133,13 +133,13 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: "Call\_754-888-3201\_or Contact Us"
+    subtitle: Call or Contact Us
     items: []
     actions:
       - type: Button
         label: Contact Us
         altText: ''
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -163,7 +163,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "## Effective Security Risk Assessments\n\nNo matter which model of SRA is used, ETECH IT is here to help your business to conduct an effective Security Risk Assessment and analyze the results to improve your business’s Cybersecurity processes.\n\nThere are a number of common steps that are involved in conducting a Security Risk Assessment:\n\n1.  **Establish the Scope:**\_Determining which systems and data will be included in the assessment.\n\n2.  **Gather Information:**\_Collecting relevant data about the systems and data that were included in the assessment.\n\n3.  **Identify Risks:**\_Analyzing the data to identify potential security threats.\n\n4.  **Develop Solutions:**\_Putting together a plan to address any identified risks.\n\n5.  **Test and Implement:**\_Carrying out the plan and ensuring that it is effective.\n\n6.  **Monitor and Review:**\_Regularly monitoring the security of the systems and data to ensure that it remains safe and secure.\n\n"
+    text: "## Effective Security Risk Assessments\n\nNo matter which model of SRA is used, Cygence is here to help your business to conduct an effective Security Risk Assessment and analyze the results to improve your business’s Cybersecurity processes.\n\nThere are a number of common steps that are involved in conducting a Security Risk Assessment:\n\n1.  **Establish the Scope:**\_Determining which systems and data will be included in the assessment.\n\n2.  **Gather Information:**\_Collecting relevant data about the systems and data that were included in the assessment.\n\n3.  **Identify Risks:**\_Analyzing the data to identify potential security threats.\n\n4.  **Develop Solutions:**\_Putting together a plan to address any identified risks.\n\n5.  **Test and Implement:**\_Carrying out the plan and ensuring that it is effective.\n\n6.  **Monitor and Review:**\_Regularly monitoring the security of the systems and data to ensure that it remains safe and secure.\n\n"
     actions: []
     badge:
       type: Badge
@@ -173,26 +173,14 @@ sections:
     styles:
       self:
         alignItems: center
-    media:
-      type: ImageBlock
-      url: /images/secandcompliance.png
-      altText: ''
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     title:
       type: TitleBlock
       text: ''
       color: text-dark
     subtitle: ''
-    text: "## Effective Security Risk Assessments\n\nETECH IT offers a variety of services to help businesses improve their cybersecurity following a Security Risk Assessment, including:\n\n*   **Threat Intelligence:**\_Gathering information about potential threats and vulnerabilities.\n\n*   **Risk Assessment:**\_Determining the risks associated with a particular system or data.\n\n*   **Vulnerability Assessment:**\_Identifying potential security vulnerabilities in systems and networks.\n\n*   **Penetration Testing:**\_Testing systems to see if they can be infiltrated by hackers.\n\n*   **Business Continuity Planning**: Developing a plan to ensure that business operations can continue in the event of a security breach.\n\n"
+    text: "## Effective Security Risk Assessments\n\nCygence offers a variety of services to help businesses improve their cybersecurity following a Security Risk Assessment, including:\n\n*   **Threat Intelligence:**\_Gathering information about potential threats and vulnerabilities.\n\n*   **Risk Assessment:**\_Determining the risks associated with a particular system or data.\n\n*   **Vulnerability Assessment:**\_Identifying potential security vulnerabilities in systems and networks.\n\n*   **Penetration Testing:**\_Testing systems to see if they can be infiltrated by hackers.\n\n*   **Business Continuity Planning**: Developing a plan to ensure that business operations can continue in the event of a security breach.\n\n"
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/secandcompliance1.png
-      altText: ''
     badge:
       type: Badge
       label: ''
@@ -205,15 +193,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Choose ETECH for Your Security Risk Assessments Needs
+      text: Choose Cygece for Your AI Security Risk Assessments Needs
       color: text-dark
     subtitle: ''
     text: >
-      Don't take a chance with your company's data. ETECH IT offers Security
-      Risk Assessments compliance services to businesses of all kinds in the
-      medical industry. We offer comprehensive services that will help you stay
-      on top of Security Risk Assessments requirements and reduce risk exposure
-      for data breaches or other violations.Contact Us Call Us: (718) 737-9169
+      Don't take a chance with your company's data. Cygence offers Security Risk
+      Assessments compliance services to businesses of all kinds in the medical
+      industry. We offer comprehensive services that will help you stay on top
+      of Security Risk Assessments requirements and reduce risk exposure for
+      data breaches or other violations. Contact Us Today.
     actions: []
     media:
       type: FormBlock

@@ -117,8 +117,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          As more and more IT companies move toward specializations in certain
-          areas, they find themselves looking to partner with an IT service
+          As more and more AI companies move toward specializations in certain
+          areas, they find themselves looking to partner with an AI service
           provider with a complementary skill set. We can provide that service
           behind the scenes, so that you can manage the relationship with your
           client however you want.

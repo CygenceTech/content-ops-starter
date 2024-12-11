@@ -714,7 +714,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cygence Technology
-  metaDescription: Augmented Realistic Intelligence
+  metaDescription: Augmenting Realistic Intelligence
   type: Seo
   metaTags: []
   socialImage: /images/favicon.ico

@@ -202,7 +202,7 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: >
-          We’ll assess and report on the security vulnerabilities within your IT
+          We’ll assess and report on the security vulnerabilities within your AI
           systems. This information is crucial in finding out what you need to
           do to mitigate your risk of data loss, business disruption, and legal
           penalties resulting from cyber breaches. We’ll recommend what you need

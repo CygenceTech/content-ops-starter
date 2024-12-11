@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: >-
-  Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
+  Why AI Security is Non-Negotiable for Businesses Handling Sensitive
   Information
 date: '2024-05-29'
 author: content/data/person1.json

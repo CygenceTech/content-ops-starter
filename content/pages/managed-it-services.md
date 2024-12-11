@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Empower Your Business with Managed IT Services
+      text: Empower Your Business with Managed AI Services
       color: text-dark
       styles:
         self:

@@ -242,10 +242,4 @@ sections:
         textAlign: center
 slug: /about
 isDraft: false
-seo:
-  type: Seo
-  metaTitle: ''
-  metaDescription: ETECH About Us
-  addTitleSuffix: false
-  metaTags: []
 ---

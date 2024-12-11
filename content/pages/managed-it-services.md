@@ -5,13 +5,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Empower Your Business with Managed IT Services
+      text: Empower Your Business with Managed AI Services
       color: text-dark
       styles:
         self:
           textAlign: center
     subtitle: ''
-    text: "\_ETECH IT offers managed IT services whenever and wherever you need it.\n"
+    text: >
+      Cygence Technology offers managed AI services whenever and wherever you
+      need it.
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
@@ -42,10 +44,10 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: "What if you could expand the capabilities and expertise of your IT department without having to hire more staff? That’s what we’re here to do. An in-house IT department requires a lot of overhead, and even companies that benefit from full-time staff still find it necessary to look elsewhere for specialized skills.\n\nThat’s where we come in.\_**Using our managed IT services**\_brings you access to a range of skill sets, from those who can consult on the best wiring for you next IT project to those with compliance expertise in your area of business.With us handling your IT, you’ll have one less thing to worry about.\n"
+        text: "What if you could expand the capabilities and expertise of your AI department without having to hire more staff? That’s what we’re here to do. An in-house AI department requires a lot of overhead, and even companies that benefit from full-time staff still find it necessary to look elsewhere for specialized skills.\n\nThat’s where we come in.\_**Using our managed AI services**\_brings you access to a range of skill sets, from those who can consult on the best wiring for you next AI project to those with compliance expertise in your area of business.With us handling your AI, you’ll have one less thing to worry about.\n"
         image:
           type: ImageBlock
-          url: /images/Screenshot 2024-07-03 at 12.45.44 PM.png
+          url: /images/Screenshot 2024-12-11 at 11.07.09 PM.png
           altText: Featured item
           styles:
             self:
@@ -115,8 +117,8 @@ sections:
       - type: FeaturedItem
         title: Stay on top of your maintenance cycle.
         tagline: ''
-        subtitle: Proactive IT Maintenance
-        text: "Once your IT systems begin to break down, it’s hard to get ahead. All your budget goes to repairing and replacing old systems, patching problems as they emerge, and facing new crises caused by an unexpected data loss or unplanned downtime. By following a\_[proactive maintenance schedule](https://etechitservice.com/it-on-demand/), we help keep your systems running smoothly, so you not only mitigate the risk of an IT failure, but are in a position to take advantage of new opportunities as they arise.\n"
+        subtitle: Proactive AI Support
+        text: "Once your AI systems begin to break down, it’s hard to get ahead. All your budget goes to repairing and replacing old systems, patching problems as they emerge, and facing new crises caused by an unexpected data loss or unplanned downtime. By following a\_[proactive maintenance schedule](https://cygencetech.com/it-on-demand/), we help keep your systems running smoothly, so you not only mitigate the risk of an IT failure, but are in a position to take advantage of new opportunities as they arise.\n"
         image:
           type: ImageBlock
           url: /images/desktopsupport.png
@@ -151,13 +153,13 @@ sections:
         tagline: ''
         subtitle: In-House Partnering
         text: >
-          Many companies have internal IT staff who have served as loyal
-          employees for years. We can work with them to help your IT department
+          Many companies have internal AI staff who have served as loyal
+          employees for years. We can work with them to help your AI department
           function more efficiently. Most commonly, we help fill staffing voids
           that arise when a team member falls ill, takes a vacation, or goes on
-          parental leave. Or, we can supply an IT specialist to consult on a
+          parental leave. Or, we can supply an AI specialist to consult on a
           case-by-case basis. We can even take over regular maintenance work so
-          as to free the internal resources of your IT department to tackle new
+          as to free the internal resources of your AI department to tackle new
           development initiatives for the company. Whatever you’re looking for,
           we can help you devise a solution.
         image:

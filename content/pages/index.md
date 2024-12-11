@@ -713,4 +713,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 type: PageLayout
+seo:
+  type: Seo
+  metaTitle: Cygence Technology
 ---

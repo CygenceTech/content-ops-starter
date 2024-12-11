@@ -74,8 +74,4 @@ slug: cloud-security
 isDraft: true
 seo:
   type: Seo
-  metaTitle: ''
-  metaDescription: ETECH Cloud Security
-  addTitleSuffix: false
-  metaTags: []
 ---

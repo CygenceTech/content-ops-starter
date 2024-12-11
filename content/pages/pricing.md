@@ -19,7 +19,6 @@ sections:
           core tools and features for individual developers.
         features:
           - Feature one
-          - Feature two
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1

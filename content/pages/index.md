@@ -324,7 +324,7 @@ sections:
         price: ''
         details: ''
         description: |+
-          #### [IT Support](https://etechitservice.com/it-on-demand/)
+          #### [AI Support](https://www.cygencetech.com/it-on-demand/)
 
         features: []
         image:

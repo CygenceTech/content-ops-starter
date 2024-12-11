@@ -19,9 +19,9 @@ sections:
           core tools and features for individual developers.
         features:
           - >-
-            Access to basic AI tools and librariesLimited usage (API calls,
-            model training)Community supportAbility to experiment with pre-built
-            modelsPerfect for personal projects or learning AI
+            Access to basic AI tools and libraries. Limited usage (API calls,
+            model training). Community support. Ability to experiment with
+            pre-built models. Perfect for personal projects or learning AI
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1

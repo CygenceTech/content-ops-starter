@@ -144,7 +144,7 @@ sections:
       - type: FeaturedItem
         title: Prepare
         subtitle: Numbers Done
-        text: "IT emergencies happen every day. From the small inconveniences of old\n and failing hardware to large problems caused by natural disasters, \nfire damage, and electricity outages. Our proactive approach to IT \nmanagement mitigates the risk of an unexpected failure. But, should the \nworst happen, we provide 24/7 support to ensure you are never \nwithout\_service.\n"
+        text: "AI emergencies happen every day. From the small inconveniences of old\nand failing hardware to large problems caused by natural disasters,\nfire damage, and electricity outages. Our proactive approach to AI\nmanagement mitigates the risk of an unexpected failure. But, should the\nworst happen, we provide 24/7 support to ensure you are never\nwithout\_service.\n"
         image:
           type: ImageBlock
           url: /images/p1-dark-1-removebg-preview.png

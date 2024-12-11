@@ -79,7 +79,34 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "## We thrive on expertise.\n\nWe’re problem solvers. We look at complex technical systems \nand find ways to make them more efficient and more powerful. That takes \nboth creativity and deep technical knowledge. Those are the qualities we\n look for in our staff, and they are what we will bring with us when we \ncome to work with you.\n\nWe equip every business with the technology they need for the future.\n For some companies, that means implementing a system which will scale \nas their company grows. For others, that means updating their \ninfrastructure to handle with powerful new technology. No matter your \nvision for the future, our mission is to find the solution that best \nmeets it. Read about our strategic approach to IT below.\n\n\n\n\t\t\n\t\t\t\t\t\n"
+        text: >
+          ## We thrive on expertise.
+
+
+          We’re problem solvers. We look at complex technical systems
+
+          and find ways to make them more efficient and more powerful. That
+          takes
+
+          both creativity and deep technical knowledge. Those are the qualities
+          we
+
+          look for in our staff, and they are what we will bring with us when we
+
+          come to work with you.
+
+
+          We equip every business with the technology they need for the future.
+
+          For some companies, that means implementing a system which will scale
+
+          as their company grows. For others, that means updating their
+
+          infrastructure to handle with powerful new technology. No matter your
+
+          vision for the future, our mission is to find the solution that best
+
+          meets it. Read about our strategic approach to AI below.
         image:
           type: ImageBlock
           altText: Featured icon two

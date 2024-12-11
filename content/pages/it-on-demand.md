@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: IT on Demand Tailored for Your Business
+      text: AI on Demand Tailored for Your Business
       color: text-dark
       styles:
         self:
@@ -43,10 +43,10 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: "Did your IT tech just move to another job, leaving you high and dry? Are you struggling with IT problems that you don’t know how to fix? Do you need help with your IT but don’t know where to turn? Call us. We’re ready to work with you to handle whatever IT challenge comes your way.\n\nWe also offer pre-paid service blocks, which you can buy ahead of time and decide how to spend later.\_So when a server goes down, a malware attack threatens your security, or a power loss leaves you without access to your database, we’re on hand to resolve the situation as fast as possible. You can focus on the immediate concern, knowing your costs are already covered.\n"
+        text: "Did your AI Engineer just move to another job, leaving you high and dry? Are you struggling with AI problems that you don’t know how to fix? Do you need help with your AI but don’t know where to turn? Call us. We’re ready to work with you to handle whatever AI challenge comes your way.\n\nWe also offer pre-paid service blocks, which you can buy ahead of time and decide how to spend later.\_So when a server goes down, a malware attack threatens your security, or a power loss leaves you without access to your database, we’re on hand to resolve the situation as fast as possible. You can focus on the immediate concern, knowing your costs are already covered.\n"
         image:
           type: ImageBlock
-          url: /images/itneeds.png
+          url: /images/Screenshot 2024-12-11 at 11.07.09 PM.png
           altText: Featured item
           styles:
             self:
@@ -74,13 +74,13 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 24/7 IT Support
-        tagline: Feature 1
+        title: 24/7 AI Support
+        tagline: Cygence Technology
         subtitle: ''
         text: >
           Unexpected shouldn’t mean unprepared. You may not know what your next
-          IT emergency will be or when it will hit, but you can have a response
-          ready. We know that an IT failure can cost a business thousands of
+          AI emergency will be or when it will hit, but you can have a response
+          ready. We know that an AI failure can cost a business thousands of
           dollars, with costs compounding with every hours that goes by. That’s
           why we are ready to respond in a crisis at any time, day or night.
         image:
@@ -113,12 +113,12 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Are you an IT company in search of a specialized partner?
+        title: Are you an AI company in search of a specialized partner?
         tagline: ''
         subtitle: ''
         text: >
-          As more and more IT companies move toward specializations in certain
-          areas, they find themselves looking to partner with an IT service
+          As more and more AI companies move toward specializations in certain
+          areas, they find themselves looking to partner with an AI service
           provider with a complementary skill set. We can provide that service
           behind the scenes, so that you can manage the relationship with your
           client however you want.

@@ -75,7 +75,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 24/7 IT Support
-        tagline: Feature 1
+        tagline: Cygence Technology
         subtitle: ''
         text: >
           Unexpected shouldn’t mean unprepared. You may not know what your next

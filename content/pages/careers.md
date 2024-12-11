@@ -121,10 +121,9 @@ sections:
         type: FeaturedItem
       - title: Senior Software Engineer
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Lead software development efforts, building scalable and efficient
+          AI-driven solutions in a fast-paced environment.
         colors: bg-neutral-fg-dark
         styles:
           self:

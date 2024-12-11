@@ -177,7 +177,7 @@ sections:
     subtitle: >-
       We provide the project planning, technical assessment, and technology
       skills required to complete unique and demanding projects—everything you
-      need to manage your IT.
+      need to manage your AI.
   - type: GenericSection
     title:
       type: TitleBlock

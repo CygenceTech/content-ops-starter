@@ -31,7 +31,7 @@ styles:
 ---
 Hackers used to target companies with large amounts of consumer data, but in recent years, they have shifted their focus to smaller companies, including those within the manufacturing industry. With valuable intellectual property and sensitive data being stored and transmitted throughout the supply chain, it’s no wonder manufacturers are a prime target for cyber attacks.
 
-Manufacturing companies need updated and [secure technology systems](https://etechitsupport/service/manufacturing-it-services/) in place in order to stay protected and productive. Manufacturing IT is the solution to ensure efficiency, innovation, and security for this industry.
+Manufacturing companies need updated and [secure technology systems](https://www.cygencetech.com/service/manufacturing-it-services/) in place in order to stay protected and productive. Manufacturing IT is the solution to ensure efficiency, innovation, and security for this industry.
 
 ## **Benefits of Manufacturing IT Services**
 
@@ -53,8 +53,8 @@ A quality IT provider can help your business develop a customized strategy to mi
 
 Not only does competition evolve products and technology, but it also leads to streamlining processes and optimizing operations. To keep up with your company’s competition, your manufacturing company needs to adapt and implement the latest tools, systems, and processes. With the help of manufacturing IT services, you can stay competitive in the industry and gain a significant advantage over others who are slow to embrace technology.
 
-## **Trust Your Manufacturing Technology to ETECH IT**
+## **Trust Your Manufacturing Technology to Cygence Technology**
 
-At ETECH IT, we understand the unique challenges and needs of the manufacturing industry. Our team of experts is dedicated to providing tailored IT solutions for your business, from secure cloud services to network security and disaster recovery plans. With our support, you can focus on growing your business while we take care of the technology side.
+At Cygence, we understand the unique challenges and needs of the manufacturing industry. Our team of experts is dedicated to providing tailored AI Solutions for your business, from secure cloud services to network security and disaster recovery plans. With our support, you can focus on growing your business while we take care of the technology side.
 
-Don’t let outdated technology hold back your company’s growth and success. Let’s get your business ahead of the curve with manufacturing IT services from ETECH IT. [Contact us today](https://etechitsupport.com/contact/) to learn more about our services and how we can help your business thrive.
+Don’t let outdated technology hold back your company’s growth and success. Let’s get your business ahead of the curve with manufacturing AI services from Cygence. [Contact us today](https://www.cygencetech.com/contact/) to learn more about our services and how we can help your business thrive.

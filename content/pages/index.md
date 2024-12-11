@@ -181,7 +181,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Bringing Managed IT Solutions to Miami Businesses since 2015.
+      text: Bringing Managed AI Solutions to Miami Businesses since 2015.
       color: text-dark
     subtitle: Be in good company
     text: >

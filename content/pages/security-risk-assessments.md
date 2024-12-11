@@ -187,7 +187,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "## Effective Security Risk Assessments\n\nETECH IT offers a variety of services to help businesses improve their cybersecurity following a Security Risk Assessment, including:\n\n*   **Threat Intelligence:**\_Gathering information about potential threats and vulnerabilities.\n\n*   **Risk Assessment:**\_Determining the risks associated with a particular system or data.\n\n*   **Vulnerability Assessment:**\_Identifying potential security vulnerabilities in systems and networks.\n\n*   **Penetration Testing:**\_Testing systems to see if they can be infiltrated by hackers.\n\n*   **Business Continuity Planning**: Developing a plan to ensure that business operations can continue in the event of a security breach.\n\n"
+    text: "## Effective Security Risk Assessments\n\nCygence offers a variety of services to help businesses improve their cybersecurity following a Security Risk Assessment, including:\n\n*   **Threat Intelligence:**\_Gathering information about potential threats and vulnerabilities.\n\n*   **Risk Assessment:**\_Determining the risks associated with a particular system or data.\n\n*   **Vulnerability Assessment:**\_Identifying potential security vulnerabilities in systems and networks.\n\n*   **Penetration Testing:**\_Testing systems to see if they can be infiltrated by hackers.\n\n*   **Business Continuity Planning**: Developing a plan to ensure that business operations can continue in the event of a security breach.\n\n"
     actions: []
     media:
       type: ImageBlock

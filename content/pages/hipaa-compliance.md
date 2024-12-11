@@ -15,7 +15,7 @@ sections:
 
 
       That’s where we come in. As one of the nation’s top HIPAA consultants,
-      ETECH IT is dedicated to helping businesses become compliant with the
+      Cygence AI is dedicated to helping businesses become compliant with the
       Health Insurance Portability and Accountability Act (HIPAA). We offer
       HIPAA Compliance Services tailored specifically to meet your needs.
     actions: []
@@ -65,7 +65,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Call 754-888-3201 or Contact Us
+    subtitle: Call or Contact Us
     items: []
     actions:
       - type: Button
@@ -95,7 +95,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: "## *Why is HIPAA Important?*\n\nThe requirements of HIPAA can be daunting, but our HIPAA Compliance Services will help you every step of the way. The main requirements of HIPAA are as follows:\n\n*   Businesses must implement security measures to protect patient data from being accessed or stolen by unauthorized individuals.\_\n\n*   Businesses must create and enforce policies and procedures for HIPAA compliance.\n\n*   Businesses must train employees on HIPAA policies and procedures.\n\n*   Businesses must maintain a record of all activity related to HIPAA compliance.\n\n*   If you deal with patient information as part of your business, then you are required by law to be compliant with HIPAA. In addition, if your organization subcontracts any work that involves PHI (protected health information), then those companies also need to be HIPAA compliant.\n\n*   Any company that deals with PHI can be audited at any time to ensure they are HIPAA compliant. It is the responsibility of businesses to prove their compliance, not the government’s job.\n\n## *What is HITECH?*\n\nThe Health Information Technology for Economic and Clinical Health Act (HITECH Act) legislation was created in 2009 to stimulate the adoption of electronic health records (EHR) and supporting technology in the United States. It introduced the Meaningful Use program incentivizing healthcare organizations to maintain the Protected Health Information of patients in electronic format, rather than in paper files.\n\n## *How Can ETECH IT Help Me Become HIPAA Compliant?*\n\nETECH IT offers a variety of services to help businesses become HIPAA compliant. We offer a comprehensive suite of services that include:\n\n*   Compliance Assessment\n\n*   Policy and Procedure Development\n\n*   Staff Training\n\n*   Technical Support\n\nWe also offer a variety of other services, such as disaster recovery planning, data security assessment, and cloud services. No matter what your business needs, we can help you become HIPAA compliant.\n"
+    text: "## *Why is HIPAA Important?*\n\nThe requirements of HIPAA can be daunting, but our HIPAA Compliance Services will help you every step of the way. The main requirements of HIPAA are as follows:\n\n*   Businesses must implement security measures to protect patient data from being accessed or stolen by unauthorized individuals.\_\n\n*   Businesses must create and enforce policies and procedures for HIPAA compliance.\n\n*   Businesses must train employees on HIPAA policies and procedures.\n\n*   Businesses must maintain a record of all activity related to HIPAA compliance.\n\n*   If you deal with patient information as part of your business, then you are required by law to be compliant with HIPAA. In addition, if your organization subcontracts any work that involves PHI (protected health information), then those companies also need to be HIPAA compliant.\n\n*   Any company that deals with PHI can be audited at any time to ensure they are HIPAA compliant. It is the responsibility of businesses to prove their compliance, not the government’s job.\n\n## *What is HITECH?*\n\nThe Health Information Technology for Economic and Clinical Health Act (HITECH Act) legislation was created in 2009 to stimulate the adoption of electronic health records (EHR) and supporting technology in the United States. It introduced the Meaningful Use program incentivizing healthcare organizations to maintain the Protected Health Information of patients in electronic format, rather than in paper files.\n\n## *How Can Cygence Technology Help Me Become HIPAA Compliant?*\n\nCygence Technology offers a variety of services to help businesses become HIPAA compliant. We offer a comprehensive suite of services that include:\n\n*   Compliance Assessment\n\n*   Policy and Procedure Development\n\n*   Staff Training\n\n*   Technical Support\n\nWe also offer a variety of other services, such as disaster recovery planning, data security assessment, and cloud services. No matter what your business needs, we can help you become HIPAA compliant.\n"
     actions: []
     badge:
       type: Badge
@@ -108,15 +108,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Choose ETECH for Your HIPAA Compliance Needs
+      text: Choose Cygence for Your HIPAA Compliance Needs
       color: text-dark
     subtitle: ''
     text: >
-      Don't take a chance with your company's data. ETECH IT offers HIPAA
-      compliance services to businesses of all kinds in the medical industry. We
-      offer comprehensive services that will help you stay on top of HIPAA
-      compliance requirements and reduce risk exposure for data breaches or
-      other violations.Contact Us Call Us: (718) 737-9169
+      Don't take a chance with your company's data. Cygence Technology offers
+      HIPAA compliance services to businesses of all kinds in the medical
+      industry. We offer comprehensive services that will help you stay on top
+      of HIPAA compliance requirements and reduce risk exposure for data
+      breaches or other violations. Contact Us Today.
     actions: []
     media:
       type: FormBlock

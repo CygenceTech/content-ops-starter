@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Invest in IT solutions that prepare you for anything.
+      Invest in AI solutions that prepare you for anything.
     actions:
       - label: Get started
         altText: ''
@@ -22,7 +22,7 @@ sections:
         type: Button
       - label: CALL NOW
         altText: ''
-        url: 'tel:954-289-0373'
+        url: 'tel:201-984-3726'
         showIcon: true
         icon: chevronBigRight
         iconPosition: right
@@ -63,16 +63,16 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ### [IT Support](https://etechitservice.com/it-on-demand/)
+          ### [AI Support](https://www.cygencetech.com/it-on-demand/)
 
 
-          We offer IT Services on Demand in either monthly or block hours, so
+          We offer AI Services on Demand in either monthly or block hours, so
           when a server goes down, a malware attack threatens your security, or
           a power loss leaves you without access to your database, we’re on hand
           to resolve the situation as fast as possible.
         image:
           type: ImageBlock
-          url: /images/itsupport.png
+          url: /images/CNAPP.png
           altText: Business consulting
           elementId: ''
           styles:
@@ -177,32 +177,32 @@ sections:
     subtitle: >-
       We provide the project planning, technical assessment, and technology
       skills required to complete unique and demanding projects—everything you
-      need to manage your IT.
+      need to manage your AI.
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Bringing Managed IT Solutions to Miami Businesses since 2015.
+      text: Bringing Managed AI Solutions to your business since 2015.
       color: text-dark
     subtitle: Be in good company
     text: >
-      A secure position in the marketplace requires an IT partner who won’t
-      leave you unprepared. At ETECH, we guard against security threats through
-      data breach protection and stringent adherence to compliance regulations.
-      Our proactive management will prepare you for emergencies, while cloud
-      solutions future-proof your infrastructure.
+      A secure position in the marketplace requires an AI partner who won’t
+      leave you unprepared. At Cygence, we guard against security threats
+      through data breach protection and stringent adherence to compliance
+      regulations. Our proactive management will prepare you for emergencies,
+      while cloud solutions future-proof your infrastructure.
 
 
-      For over a decade, our Miami-based IT management company has been
-      assisting organizations of every size make the most of their IT budget. We
-      have designed efficient managed IT solutions for a range of complex
-      problems. Whether that means integrating your business with a cloud-based
+      For over a decade, our AI management company has been assisting
+      organizations of every size make the most of their AI budget. We have
+      designed efficient managed AI solutions for a range of complex problems.
+      Whether that means integrating your business with a cloud-based
       environment, providing a comprehensive security plan, or ensuring your
       critical data is backed up and easily accessible, we can bring your
       business to the next level.
 
 
       Bottom line: we’ll guide you every step of the way, so you’ll understand
-      everything your IT does for you.
+      everything your AI does for you.
     actions:
       - type: Button
         label: Get started
@@ -216,7 +216,7 @@ sections:
       altText: ''
     badge:
       type: Badge
-      label: Why Trust Our IT Solutions
+      label: Why Trust Our AI Solutions
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -226,7 +226,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Technical IT Solutions
+      text: Technical AI Solutions
       color: text-dark
       styles:
         self:
@@ -238,7 +238,7 @@ sections:
         price: ''
         details: ''
         description: |+
-          #### [Managed IT](https://etechitservice.com/managed-it-services/)
+          #### [Managed AI](https://www.cygencetech.com/managed-it-services/)
 
         features: []
         image:
@@ -267,7 +267,7 @@ sections:
         details: ''
         description: >+
           #### [Cybersecurity &
-          Compliance](https://etechitservice.com/cybersecurity-compliance/)
+          Compliance](https://www.cygencetech.com/cybersecurity-compliance/)
 
         features: []
         image:
@@ -296,7 +296,7 @@ sections:
         details: ''
         description: >+
           #### [Network Security &
-          Assessment](https://etechitservice.com/network-assessment/)
+          Assessment](https://www.cygencetech.com/network-assessment/)
 
         features: []
         image:
@@ -324,7 +324,7 @@ sections:
         price: ''
         details: ''
         description: |+
-          #### [IT Support](https://etechitservice.com/it-on-demand/)
+          #### [AI Support](https://www.cygencetech.com/it-on-demand/)
 
         features: []
         image:
@@ -352,8 +352,8 @@ sections:
         price: ''
         details: ''
         description: >+
-          #### [Hardware &
-          Software](https://etechitservice.com/managed-it-services/)
+          #### [AI Hardware &
+          Software](https://www.cygencetech.com/managed-it-services/)
 
         features: []
         image:
@@ -381,8 +381,8 @@ sections:
         price: ''
         details: ''
         description: >+
-          #### [Backup &
-          Recovery](https://etechitservice.com/managed-it-services/)
+          #### [AI Backup &
+          Recovery](https://www.cygencetech.com/managed-it-services/)
 
         features: []
         image:
@@ -420,7 +420,7 @@ sections:
         self:
           textAlign: left
     subtitle: Private Cloud
-    text: >+
+    text: >
       If you’re like many businesses, your journey to the cloud began piecemeal.
       You’ve seen some gains in convenience and accessibility, but now your
       resources are distributed across multiple applications, and it’s affecting
@@ -429,9 +429,8 @@ sections:
       any location and find it just as you left it when you last logged in.
 
 
-      In short, we merge Managed IT with Cloud Solutions to help your business
+      In short, we merge Managed AI with Cloud Solutions to help your business
       grow.
-
     actions:
       - type: Button
         label: Learn More
@@ -501,12 +500,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH's cybersecurity solutions have been a game-changer for our
+          "Cygence AI cybersecurity solutions have been a game-changer for our
           firm. With their advanced threat detection and prevention systems,
           we've seen a significant reduction in security breaches. Their team is
           incredibly responsive and always available to address any concerns.
-          Thanks to ETECH, we can now focus on our core business without
-          worrying about cyber threats."
+          Thanks to Cygence Technology, we can now focus on our core business
+          without worrying about cyber threats."
 
 
           — Sarah L., CTO, Financial Services Firm
@@ -528,12 +527,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has revolutionized our IT infrastructure. Their cloud solutions
-          have made our operations more efficient and scalable, allowing us to
-          handle peak traffic seamlessly. The level of security they provide
-          gives us and our customers peace of mind. ETECH's support team is
-          always just a call away, ensuring we have zero downtime."
-
+          "Cygence Technology has revolutionized our AI infrastructure. Their
+          cloud solutions have made our operations more efficient and scalable,
+          allowing us to handle peak traffic seamlessly. The level of security
+          they provide gives us and our customers peace of mind. Cygence's
+          support team is always just a call away, ensuring we have zero
+          downtime."
 
 
           *— Mark P., CEO, E-commerce Company*
@@ -556,10 +555,10 @@ sections:
         subtitle: ''
         text: >
           "As a healthcare provider, protecting patient data is paramount.
-          ETECH's comprehensive cybersecurity framework has been instrumental in
-          safeguarding our sensitive information. Their proactive monitoring and
-          quick response to potential threats have been exceptional. We highly
-          recommend ETECH to any organization looking for robust IT and
+          Cygence's comprehensive cybersecurity framework has been instrumental
+          in safeguarding our sensitive information. Their proactive monitoring
+          and quick response to potential threats have been exceptional. We
+          highly recommend Cygence to any organization looking for robust AI and
           cybersecurity solutions."
 
           *— Dr. Emily R., Director of IT, Healthcare Provider*
@@ -587,13 +586,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has been a reliable partner in managing our IT services. Their
-          expertise in network security and system optimization has greatly
-          improved our productivity. The custom solutions they designed for our
-          specific needs have streamlined our processes, reducing costs and
-          enhancing efficiency. ETECH’s dedication to excellence is evident in
-          everything they do."
-
+          "Cygence has been a reliable partner in managing our AI services.
+          Their expertise in network security and system optimization has
+          greatly improved our productivity. The custom solutions they designed
+          for our specific needs have streamlined our processes, reducing costs
+          and enhancing efficiency. Cygence dedication to excellence is evident
+          in everything they do."
 
 
           *— John M., Operations Manager, Manufacturing Company*
@@ -621,13 +619,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH has transformed our IT landscape with their innovative
+          "Cygence has transformed our AI landscape with their innovative
           solutions and exceptional service. Their cybersecurity measures have
           protected our network from numerous potential attacks, ensuring the
-          safety of our students' and faculty's data. ETECH’s support team is
+          safety of our students' and faculty's data. Cygence’s support team is
           knowledgeable and always ready to help, making them an invaluable
           partner in our digital journey."
-
 
 
           *— Lisa T., Head of IT, Educational Institution*
@@ -660,7 +657,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Not sure what your business needs to take its IT to the next level?
+      text: Not sure what your business needs to take its AI to the next level?
       color: text-dark
       type: TitleBlock
     subtitle: We can help! Contact us for a free consultation.

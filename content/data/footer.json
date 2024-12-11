@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/Screenshot 2024-12-11 a1t 4.00.44 PM.png",
+        "url": "/images/Screenshot 2024-12-11 at 11.40.40 PM.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -9,7 +9,7 @@
         "title": "Our Services",
         "links": [
             {
-                "label": "Managed IT Services",
+                "label": "Managed AI Services",
                 "altText": "",
                 "url": "/managed-it-services/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "IT On Demand",
+                "label": "AI On Demand",
                 "url": "/it-on-demand",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -142,19 +142,19 @@
     "socialLinks": [
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://twitter.com/cygence",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/",
+            "url": "https://www.linkedin.com/cygence",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "mailto:info@etechitsupport.com",
+            "url": "mailto:info@cygencetech.com",
             "icon": "mail",
             "type": "Social"
         },
@@ -184,7 +184,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "ETECH\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

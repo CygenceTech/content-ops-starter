@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: IT on Demand Tailored for Your Business
+      text: AI on Demand Tailored for Your Business
       color: text-dark
       styles:
         self:

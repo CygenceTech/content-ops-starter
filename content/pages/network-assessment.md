@@ -124,7 +124,7 @@ sections:
       - type: FeaturedItem
         title: Take stock of your system hardware.
         tagline: ''
-        subtitle: Proactive IT Maintenance
+        subtitle: Proactive AI Maintenance
         text: >
           It’s not just network bottlenecks that can slow your system down;
           dated hardware or worn out wiring can also have a negative impact on

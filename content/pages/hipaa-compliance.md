@@ -108,7 +108,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Choose ETECH for Your HIPAA Compliance Needs
+      text: Choose Cygence for Your HIPAA Compliance Needs
       color: text-dark
     subtitle: ''
     text: >

@@ -713,11 +713,14 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: ETECH IT Services
-  metaDescription: ETECH IT Services
+  metaTitle: Cygence Technology
+  metaDescription: Augmenting Realistic Intelligence
   type: Seo
-  metaTags: []
-  socialImage: /images/favicon.ico
-  addTitleSuffix: false
+  metaTags:
+    - type: MetaTag
+      property: 'og:url'
+      content: Artificial Intelligence Engineering
+  socialImage: /images/Screenshot 2024-12-11 at 11.40.40 PM.png
+  addTitleSuffix: true
 type: PageLayout
 ---

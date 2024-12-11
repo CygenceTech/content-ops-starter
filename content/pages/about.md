@@ -2,34 +2,6 @@
 type: PageLayout
 title: About
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Premier Technology Company
-      color: text-dark
-    subtitle: ''
-    text: |
-      IT specializations with breadth and depth.
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: ''
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 20
-      url: /images/sunset.jpg
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -37,10 +9,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ## *Understand your IT.*
+          ## *Understand your AI.*
 
 
-          There’s a knowledge gap in IT between service providers and their
+          There’s a knowledge gap in AI between service providers and their
           clients.
 
           We know how hard it is for our clients to feel confident in making
@@ -79,7 +51,34 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "## We thrive on expertise.\n\nWe’re problem solvers. We look at complex technical systems \nand find ways to make them more efficient and more powerful. That takes \nboth creativity and deep technical knowledge. Those are the qualities we\n look for in our staff, and they are what we will bring with us when we \ncome to work with you.\n\nWe equip every business with the technology they need for the future.\n For some companies, that means implementing a system which will scale \nas their company grows. For others, that means updating their \ninfrastructure to handle with powerful new technology. No matter your \nvision for the future, our mission is to find the solution that best \nmeets it. Read about our strategic approach to IT below.\n\n\n\n\t\t\n\t\t\t\t\t\n"
+        text: >
+          ## We thrive on expertise.
+
+
+          We’re problem solvers. We look at complex technical systems
+
+          and find ways to make them more efficient and more powerful. That
+          takes
+
+          both creativity and deep technical knowledge. Those are the qualities
+          we
+
+          look for in our staff, and they are what we will bring with us when we
+
+          come to work with you.
+
+
+          We equip every business with the technology they need for the future.
+
+          For some companies, that means implementing a system which will scale
+
+          as their company grows. For others, that means updating their
+
+          infrastructure to handle with powerful new technology. No matter your
+
+          vision for the future, our mission is to find the solution that best
+
+          meets it. Read about our strategic approach to AI below.
         image:
           type: ImageBlock
           altText: Featured icon two
@@ -107,7 +106,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our Take on IT.
+      text: Our Take on AI.
       color: text-dark
       styles:
         self:
@@ -117,7 +116,7 @@ sections:
       - type: FeaturedItem
         title: Prepare
         subtitle: Numbers Done
-        text: "IT emergencies happen every day. From the small inconveniences of old\n and failing hardware to large problems caused by natural disasters, \nfire damage, and electricity outages. Our proactive approach to IT \nmanagement mitigates the risk of an unexpected failure. But, should the \nworst happen, we provide 24/7 support to ensure you are never \nwithout\_service.\n"
+        text: "AI emergencies happen every day. From the small inconveniences of old\nand failing hardware to large problems caused by natural disasters,\nfire damage, and electricity outages. Our proactive approach to AI\nmanagement mitigates the risk of an unexpected failure. But, should the\nworst happen, we provide 24/7 support to ensure you are never\nwithout\_service.\n"
         image:
           type: ImageBlock
           url: /images/p1-dark-1-removebg-preview.png
@@ -142,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: Position
         subtitle: ''
-        text: "With the rate of technological change transforming every corner of \nthe economy, businesses must be adaptable to keep pace. Managed IT \nservices provide a crucial role in helping businesses make the best use \nof their resources. We strategize with businesses to find the solutions \nthat will leave them well-placed to take advantage of opportunities as \nthey\_arise.\n"
+        text: "With the rate of technological change transforming every corner of\nthe economy, businesses must be adaptable to keep pace. Managed AI\nservices provide a crucial role in helping businesses make the best use\nof their resources. We strategize with businesses to find the solutions\nthat will leave them well-placed to take advantage of opportunities as\nthey\_arise.\n"
         image:
           type: ImageBlock
           url: /images/p2-dark-1-removebg-preview.png
@@ -164,7 +163,7 @@ sections:
       - type: FeaturedItem
         title: Protect
         subtitle: ''
-        text: "No IT system is free from risk. Businesses of every size need to \nguard against data leaks, security breaches, and exploitable weaknesses \ndue to human error. But keeping data safe also requires protection from \naccident and system failure. We follow industry compliance standards \nthat not only safeguard data privacy, but also aid in backup \nand\_recovery.\n"
+        text: "No AI system is free from risk. Businesses of every size need to\nguard against data leaks, security breaches, and exploitable weaknesses\ndue to human error. But keeping data safe also requires protection from\naccident and system failure. We follow industry compliance standards\nthat not only safeguard data privacy, but also aid in backup\nand\_recovery.\n"
         image:
           type: ImageBlock
           url: /images/p3-dark-1-removebg-preview.png
@@ -215,10 +214,4 @@ sections:
         textAlign: center
 slug: /about
 isDraft: false
-seo:
-  type: Seo
-  metaTitle: ''
-  metaDescription: ETECH About Us
-  addTitleSuffix: false
-  metaTags: []
 ---

@@ -420,7 +420,7 @@ sections:
         self:
           textAlign: left
     subtitle: Private Cloud
-    text: >+
+    text: >
       If you’re like many businesses, your journey to the cloud began piecemeal.
       You’ve seen some gains in convenience and accessibility, but now your
       resources are distributed across multiple applications, and it’s affecting
@@ -429,9 +429,8 @@ sections:
       any location and find it just as you left it when you last logged in.
 
 
-      In short, we merge Managed IT with Cloud Solutions to help your business
+      In short, we merge Managed AI with Cloud Solutions to help your business
       grow.
-
     actions:
       - type: Button
         label: Learn More

@@ -715,5 +715,5 @@ sections:
 type: PageLayout
 seo:
   type: Seo
-  metaTitle: Cygence
+  metaTitle: Cygence Technology
 ---

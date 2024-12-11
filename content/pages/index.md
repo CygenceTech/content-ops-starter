@@ -267,7 +267,7 @@ sections:
         details: ''
         description: >+
           #### [Cybersecurity &
-          Compliance](https://etechitservice.com/cybersecurity-compliance/)
+          Compliance](https://www.cygencetech.com/cybersecurity-compliance/)
 
         features: []
         image:

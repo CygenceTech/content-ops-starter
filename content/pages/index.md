@@ -500,12 +500,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          "ETECH's cybersecurity solutions have been a game-changer for our
+          "Cygence AI cybersecurity solutions have been a game-changer for our
           firm. With their advanced threat detection and prevention systems,
           we've seen a significant reduction in security breaches. Their team is
           incredibly responsive and always available to address any concerns.
-          Thanks to ETECH, we can now focus on our core business without
-          worrying about cyber threats."
+          Thanks to Cygence Technology, we can now focus on our core business
+          without worrying about cyber threats."
 
 
           — Sarah L., CTO, Financial Services Firm

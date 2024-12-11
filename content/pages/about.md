@@ -37,10 +37,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ## *Understand your IT.*
+          ## *Understand your AI.*
 
 
-          There’s a knowledge gap in IT between service providers and their
+          There’s a knowledge gap in AI between service providers and their
           clients.
 
           We know how hard it is for our clients to feel confident in making

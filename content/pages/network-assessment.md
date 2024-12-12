@@ -238,7 +238,7 @@ slug: network-assessment
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Network Assessment
+  metaDescription: Cygence Network Assessment
   metaTags: []
   addTitleSuffix: false
 ---

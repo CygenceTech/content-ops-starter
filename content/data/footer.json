@@ -85,7 +85,7 @@
         "links": [
             {
                 "label": "Company",
-                "altText": "careers page",
+                "altText": "about page",
                 "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",

@@ -24,7 +24,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Terms
+  metaDescription: Terms
   addTitleSuffix: false
   metaTags: []
 ---

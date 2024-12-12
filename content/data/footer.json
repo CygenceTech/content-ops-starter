@@ -117,7 +117,7 @@
             {
                 "type": "Link",
                 "label": "Pricing",
-                "altText": "",
+                "altText": "Pricing",
                 "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",

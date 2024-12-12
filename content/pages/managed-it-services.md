@@ -193,7 +193,7 @@ slug: /managed-it-services
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Managed IT Services
+  metaDescription: Cygence Managed AI Services
   metaTags: []
   addTitleSuffix: false
 ---

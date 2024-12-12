@@ -94,9 +94,9 @@
             },
             {
                 "type": "Link",
-                "label": "Network Assessment",
+                "label": "Blog",
                 "altText": "",
-                "url": "/network-assessment",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -105,9 +105,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Network Assessment",
                 "altText": "",
-                "url": "/blog",
+                "url": "/network-assessment",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

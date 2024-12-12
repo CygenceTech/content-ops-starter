@@ -169,7 +169,7 @@ slug: /hipaa-compliance
 isDraft: false
 seo:
   type: Seo
-  metaTitle: ETECH HIPAA Compliance
+  metaTitle: HIPAA Compliance
   metaDescription: HIPAA Compliance
   addTitleSuffix: false
   metaTags: []

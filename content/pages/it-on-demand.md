@@ -156,7 +156,7 @@ slug: it-on-demand
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH IT On Demand
+  metaDescription: Cygence AI On Demand
   metaTags: []
   addTitleSuffix: false
 ---

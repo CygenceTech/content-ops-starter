@@ -85,8 +85,8 @@
         "links": [
             {
                 "label": "Company",
-                "altText": "careers page",
-                "url": "/company",
+                "altText": "about page",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -94,9 +94,20 @@
             },
             {
                 "type": "Link",
-                "label": "Network Assessment",
+                "label": "Pricing",
+                "altText": "Pricing",
+                "url": "/pricing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Careers",
                 "altText": "",
-                "url": "/network-assessment",
+                "url": "/careers",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -108,17 +119,6 @@
                 "label": "Blog",
                 "altText": "",
                 "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "altText": "",
-                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

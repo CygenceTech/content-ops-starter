@@ -255,7 +255,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Security Risk Assessments
+  metaDescription: Security Risk Assessments
   addTitleSuffix: false
   metaTags: []
 ---

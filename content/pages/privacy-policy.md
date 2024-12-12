@@ -155,7 +155,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Privacy Policy
+  metaDescription: Cygence Privacy Policy
   addTitleSuffix: false
   metaTags: []
 ---

@@ -19,7 +19,6 @@ isDraft: false
 seo:
   metaTitle: 5 Tips for Starting a Startup
   metaDescription: ''
-  socialImage: /images/abstract-feature1.svg
   type: Seo
 colors: bg-light-fg-dark
 styles:

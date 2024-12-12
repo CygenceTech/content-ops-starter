@@ -121,7 +121,6 @@ sections:
 seo:
   metaTitle: Cygence Pricing
   metaDescription: 'AI Pricing '
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---

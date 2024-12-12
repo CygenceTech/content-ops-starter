@@ -305,7 +305,7 @@ slug: /technical-services
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Technical Services
+  metaDescription: Technical Services
   metaTags: []
   addTitleSuffix: false
 isDraft: false

@@ -170,7 +170,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: ETECH HIPAA Compliance
-  metaDescription: ETECH HIPAA Compliance
+  metaDescription: HIPAA Compliance
   addTitleSuffix: false
   metaTags: []
 ---

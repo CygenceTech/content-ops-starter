@@ -94,9 +94,9 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Careers",
                 "altText": "",
-                "url": "/blog",
+                "url": "/careers",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -105,9 +105,9 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
+                "label": "Blog",
                 "altText": "",
-                "url": "/careers",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

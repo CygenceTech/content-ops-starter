@@ -188,7 +188,7 @@ slug: /incident-response-and-management
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Incident Response and Management
+  metaDescription: Incident Response and Management
   metaTags: []
   addTitleSuffix: false
 isDraft: false

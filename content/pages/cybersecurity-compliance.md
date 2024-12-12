@@ -197,7 +197,7 @@ slug: /cybersecurity-compliance
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Cybersecurity & Compliance
+  metaDescription: Cygence Cybersecurity & Compliance
   metaTags: []
   addTitleSuffix: false
 ---

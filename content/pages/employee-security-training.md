@@ -113,7 +113,7 @@ slug: /employee-security-training
 seo:
   type: Seo
   metaTitle: ''
-  metaDescription: ETECH Employee Security Training
+  metaDescription: Cygence Employee Security Training
   metaTags: []
   addTitleSuffix: false
 isDraft: false

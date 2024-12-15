@@ -21,7 +21,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-author: content/data/person6.json
+author: content/data/person1.json
 type: PostLayout
 ---
 Starting a startup is an exciting and challenging journey. Here are five key tips to help you navigate the process:

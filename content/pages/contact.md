@@ -36,7 +36,7 @@ sections:
             - AI Compliance
             - AI Network Assessment
             - AI On Demand
-            - Managed IT Services
+            - Managed AI Services
             - Cloud Integration
             - Other
           isRequired: false

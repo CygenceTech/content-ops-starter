@@ -3,9 +3,7 @@ type: PostLayout
 title: A Day in the Life of Our Development Team
 date: '2024-05-29'
 author: content/data/person1.json
-excerpt: >-
-  Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
-  From an IT Professional
+excerpt: A Day in the Life of Our Development Team
 featuredImage:
   type: ImageBlock
   url: /images/170329-IT-Best-Practices.jpeg

@@ -16,7 +16,9 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+  metaTitle: >-
+    Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
+    From an IT Professional
   metaDescription: Cygence Technology
   socialImage: /images/abstract-feature2.svg
   type: Seo

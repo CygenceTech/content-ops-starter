@@ -75,9 +75,6 @@ sections:
 
       Expand your capabilities. If you think our areas of expertise complement
       each other, let’s talk.
-
-
-      [Contact Us](https://cygencetech.com/contact)
     actions:
       - type: Button
         label: Get started

@@ -23,7 +23,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ''
+      label: Cloud Security
       color: text-primary
     colors: bg-dark-fg-light
     styles:

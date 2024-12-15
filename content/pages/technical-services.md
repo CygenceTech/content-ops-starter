@@ -265,7 +265,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: IT on Demand
+        title: AI on Demand
         tagline: ''
         subtitle: ''
         text: ''

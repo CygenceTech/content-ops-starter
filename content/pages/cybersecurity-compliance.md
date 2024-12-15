@@ -196,7 +196,7 @@ sections:
 slug: /cybersecurity-compliance
 seo:
   type: Seo
-  metaTitle: ''
+  metaTitle: Cygence Cybersecurity & Compliance
   metaDescription: Cygence Cybersecurity & Compliance
   metaTags: []
   addTitleSuffix: false

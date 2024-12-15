@@ -75,7 +75,7 @@ sections:
       text: The Future is AI...
       color: text-dark
     subtitle: ...the Past was Cloud
-slug: cloud-security
+slug: 'https://cygencetech.com/cloud-security/'
 isDraft: true
 seo:
   type: Seo

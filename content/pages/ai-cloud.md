@@ -75,7 +75,7 @@ sections:
       text: The Future is AI...
       color: text-dark
     subtitle: ...the Past was Cloud
-slug: /ai-cloud-security
+slug: /ai-cloud
 isDraft: true
 seo:
   type: Seo

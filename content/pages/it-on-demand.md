@@ -155,7 +155,7 @@ sections:
 slug: it-on-demand
 seo:
   type: Seo
-  metaTitle: ''
+  metaTitle: Cygence AI On Demand
   metaDescription: Cygence AI On Demand
   metaTags: []
   addTitleSuffix: false

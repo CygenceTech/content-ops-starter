@@ -191,7 +191,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Network Assessment",
+                    "label": "AI Network Assessment",
                     "altText": "",
                     "url": "/network-assessment",
                     "showIcon": false,

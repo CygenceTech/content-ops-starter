@@ -28,7 +28,6 @@ topSections:
       - content/pages/blog/life-of-our-development-team.md
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/cloud-based-disaster-recovery-solutions.md
     showThumbnail: true
     showExcerpt: true
     showDate: true

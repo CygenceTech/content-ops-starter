@@ -31,7 +31,7 @@ sections:
           name: interested-services
           label: What services are you interested in most?
           hideLabel: false
-          defaultValue: Managed IT Services
+          defaultValue: Managed AI Services
           options:
             - Compliance
             - Network Assessment

@@ -17,7 +17,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: >-
-    Technology and IT Support in Manufacturing: Driving Efficiency and
+    Technology and AI Support in Manufacturing: Driving Efficiency and
     Innovation
   metaDescription: >-
     Technology and IT Support in Manufacturing: Driving Efficiency and

@@ -40,7 +40,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: AI Cloud Security Today
+        title: The Now is AI Cloud Security
         tagline: ''
         subtitle: ''
         text: >

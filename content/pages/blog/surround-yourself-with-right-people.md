@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Surround Yourself With the Right People
 featuredImage:
   type: ImageBlock
-  url: /images/blog-hipaa1.jpg
+  url: /images/inhousepartner.png
   altText: ''
   styles:
     self:

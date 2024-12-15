@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 0
-enableSearch: false
+enableSearch: true
 topSections:
   - type: FeaturedPostsSection
     title:
@@ -19,6 +19,10 @@ topSections:
         content/pages/blog/why-hipaa-security-is-non-negotiable-for-businesses.md
       - >-
         content/pages/blog/technology-and-it-support-in-manufacturing-driving-efficiency-and-innovation.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: true
     showDate: true

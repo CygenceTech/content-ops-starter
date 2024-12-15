@@ -96,8 +96,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ### [Managed IT
-          Services](https://cygencetech.com/managed-it-services/)
+          ### [Managed AI
+          Services](https://cygencetech.com/ai-network-security/)
 
 
           Working with a managed IT company brings you access to a range of

@@ -1,7 +1,7 @@
 ---
 title: >-
   Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
-  From an IT Professional
+  From an AI Professional
 slug: cloud-based-disaster-recovery-solutions
 date: '2024-07-03'
 excerpt: >-
@@ -17,7 +17,7 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Cygence Technology
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark

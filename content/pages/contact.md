@@ -30,7 +30,7 @@ sections:
         - type: SelectFormControl
           name: interested-services
           label: What services are you interested in most?
-          hideLabel: false
+          hideLabel: true
           defaultValue: Managed AI Services
           options:
             - AI Compliance

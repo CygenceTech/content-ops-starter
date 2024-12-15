@@ -24,7 +24,7 @@ seo:
     Why AI Security is Non-Negotiable for Businesses Handling Sensitive
     Information
   metaDescription: >-
-    Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
+    Why AI Security is Non-Negotiable for Businesses Handling Sensitive
     Information
   metaTags: []
   addTitleSuffix: false

@@ -18,7 +18,7 @@ slug: /life-of-our-development-team
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: A Day in teh Life of Our Development Team
+  metaTitle: A Day in the Life of Our Development Team
   metaDescription: Cygence Technology
   addTitleSuffix: false
   metaTags: []

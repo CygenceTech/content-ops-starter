@@ -33,7 +33,7 @@ sections:
           hideLabel: false
           defaultValue: Managed AI Services
           options:
-            - Compliance
+            - AI Compliance
             - Network Assessment
             - IT On Demand
             - Managed IT Services

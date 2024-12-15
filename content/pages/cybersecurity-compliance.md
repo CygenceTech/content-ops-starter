@@ -91,7 +91,7 @@ sections:
           them a plan to mitigate these risks.
         image:
           type: ImageBlock
-          url: /images/Security Risk Assessment.png
+          url: /images/cyber.jpg
           altText: Background alt text
           styles:
             self:

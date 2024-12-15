@@ -6,8 +6,8 @@ title: >-
 date: '2024-05-29'
 author: content/data/person1.json
 excerpt: >-
-  Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
-  From an IT Professional
+  Why AI Security is Non-Negotiable for Businesses Handling Sensitive
+  Information
 featuredImage:
   type: ImageBlock
   url: /images/blog-hipaa1.jpg

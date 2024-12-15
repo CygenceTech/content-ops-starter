@@ -60,7 +60,7 @@ sections:
       to learn how we can grow your business.
 
 
-      [Request Assessment](https://cygencetech.com/service/network-assessment/)
+      [Request Assessment](https://cygencetech.com/network-assessment/)
 
 
       ###### **For AI Companies**
@@ -75,23 +75,13 @@ sections:
 
       Expand your capabilities. If you think our areas of expertise complement
       each other, let’s talk.
-
-
-      [Contact Us](https://cygencetech.com/contact)
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/Incident Response and Management.png
@@ -130,7 +120,7 @@ sections:
           - type: Button
             label: ' Learn More'
             altText: ''
-            url: /
+            url: /contact
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -162,7 +152,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: /contact
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -194,7 +184,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: /contact
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -226,7 +216,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: /contact
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -243,7 +233,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Off-site Backup & Recovery
+        title: AI Backups
         tagline: ''
         subtitle: ''
         text: ''
@@ -254,7 +244,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -266,7 +265,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: IT on Demand
+        title: AI on Demand
         tagline: ''
         subtitle: ''
         text: ''
@@ -277,7 +276,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:

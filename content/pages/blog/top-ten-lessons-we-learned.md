@@ -2,7 +2,7 @@
 title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
-excerpt: A Day in the Life of Our Development Team
+excerpt: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 featuredImage:
   url: /images/young-business-meeting.jpg
   altText: Thumbnail

@@ -40,8 +40,8 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - ETECH IT
-  metaDescription: Blog - ETECH IT
+  metaTitle: Blog - Cygence
+  metaDescription: Blog - Cygence
   type: Seo
   addTitleSuffix: false
 type: PostFeedLayout

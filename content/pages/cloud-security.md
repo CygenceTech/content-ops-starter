@@ -74,7 +74,7 @@ sections:
       type: TitleBlock
       text: The Future is AI...
       color: text-dark
-    subtitle: The Past Was Cloud
+    subtitle: ...the Past was Cloud
 slug: cloud-security
 isDraft: true
 seo:

@@ -40,7 +40,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - ETECH IT
+  metaTitle: Blog - Cygence
   metaDescription: Blog - ETECH IT
   type: Seo
   addTitleSuffix: false

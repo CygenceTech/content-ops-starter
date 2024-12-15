@@ -17,7 +17,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: Surround Yourself With the Right People
-  metaDescription: Cygence Technology
+  metaDescription: Surround Yourself With the Right People
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark

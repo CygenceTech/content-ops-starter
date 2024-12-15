@@ -216,7 +216,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: /contact
             showIcon: false
             icon: arrowRight
             iconPosition: right

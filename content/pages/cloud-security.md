@@ -76,7 +76,7 @@ sections:
       subtitle:
         textAlign: center
 slug: /cloud-security
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Cygence AI Cloud Security

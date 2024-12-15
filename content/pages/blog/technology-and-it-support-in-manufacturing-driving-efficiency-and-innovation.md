@@ -3,7 +3,7 @@ type: PostLayout
 title: 'Technology and AI Support in Manufacturing: Driving Efficiency and Innovation'
 date: '2024-04-11'
 author: content/data/person1.json
-excerpt: 'Technology and IT Support in Manufacturing: Driving Efficiency and Innovation'
+excerpt: 'Technology and AI Support in Manufacturing: Driving Efficiency and Innovation'
 featuredImage:
   type: ImageBlock
   url: /images/blog-manuf1.jpg

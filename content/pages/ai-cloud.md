@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: AI Cloud Security
+title: AI Cloud
 sections:
   - type: GenericSection
     title:
@@ -75,8 +75,8 @@ sections:
       text: The Future is AI...
       color: text-dark
     subtitle: ...the Past was Cloud
-slug: /ai-cloud-security
-isDraft: true
+slug: /ai-cloud
+isDraft: false
 seo:
   type: Seo
   metaTitle: Cygence AI Cloud Security

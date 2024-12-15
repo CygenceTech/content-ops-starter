@@ -18,7 +18,7 @@ slug: /surround-yourself-with-right-people
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: Cygence Technology
+  metaTitle: Surround Yourself With the Right People
   metaDescription: Cygence Technology
   addTitleSuffix: false
   metaTags: []

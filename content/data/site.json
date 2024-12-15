@@ -1,9 +1,13 @@
 {
-    "favicon": "/images/Accept_Risk.png",
+    "favicon": "/images/Logo_300x300.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "Cygence",
     "defaultSocialImage": "/images/Logo_300x300.png",
     "type": "Config",
     "header": "content/data/header.json",
-    "defaultMetaTags": []
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }

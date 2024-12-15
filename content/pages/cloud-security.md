@@ -21,6 +21,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/mspcloudsecurity.webp
     badge:
       type: Badge
       label: Cloud Security

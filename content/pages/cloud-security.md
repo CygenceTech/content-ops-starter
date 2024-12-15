@@ -72,7 +72,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: The Future is Cloud
+      text: The Future is AI
       color: text-dark
     subtitle: 'The '
 slug: cloud-security

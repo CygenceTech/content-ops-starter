@@ -8,7 +8,7 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: ''
-    text: "Cygence Technology\n\n**Phone**:\_201-984-3726\n\n**Email**: \_<info@cygencetech.com>\n"
+    text: "Cygence Technology\n\n**Phone**:\_[201-984-3726](tel:201-984-3726)\n\n**Email**: \_<info@cygencetech.com>\n"
     actions: []
     media:
       type: FormBlock
@@ -31,15 +31,15 @@ sections:
           name: interested-services
           label: What services are you interested in most?
           hideLabel: false
-          defaultValue: Managed IT Services
+          defaultValue: Managed AI Services
           options:
-            - Compliance
-            - Network Assessment
-            - IT On Demand
-            - Managed IT Services
-            - Cloud Integration
+            - AI Compliance
+            - AI Network Assessment
+            - AI On Demand
+            - Managed AI Services
+            - AI Cloud Integration
             - Other
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: message

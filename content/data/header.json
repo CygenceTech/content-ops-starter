@@ -27,6 +27,28 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Careers",
+                    "altText": "",
+                    "url": "/careers",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Pricing",
+                    "altText": "",
+                    "url": "/pricing",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
@@ -180,7 +202,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Cloud Security",
+                    "label": "AI Cloud Security",
                     "altText": "",
                     "url": "/cloud-security",
                     "showIcon": false,
@@ -191,7 +213,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Network Assessment",
+                    "label": "AI Network Assessment",
                     "altText": "",
                     "url": "/network-assessment",
                     "showIcon": false,

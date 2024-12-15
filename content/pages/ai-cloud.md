@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: AI Cloud
+title: AI Cloud Security
 sections:
   - type: GenericSection
     title:

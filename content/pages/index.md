@@ -131,7 +131,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ### [Cybersecurity](https://cygencetech.com/cybersecurity-compliance/)
+          ### [AI
+          Cybersecurity](https://cygencetech.com/cybersecurity-compliance/)
 
 
           If you prioritize data privacy and compliance standards, we want to

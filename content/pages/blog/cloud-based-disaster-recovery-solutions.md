@@ -19,7 +19,9 @@ seo:
   metaTitle: >-
     Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
     From an IT Professional
-  metaDescription: Cygence Technology
+  metaDescription: >-
+    Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
+    From an IT Professional
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark

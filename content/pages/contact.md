@@ -39,7 +39,7 @@ sections:
             - Managed AI Services
             - AI Cloud Integration
             - Other
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: message

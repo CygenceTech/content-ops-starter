@@ -1,7 +1,7 @@
 {
     "favicon": "/images/Accept_Risk.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "ETECH",
+    "titleSuffix": "Cygence",
     "defaultSocialImage": "/images/Accept_Risk.png",
     "type": "Config",
     "header": "content/data/header.json",

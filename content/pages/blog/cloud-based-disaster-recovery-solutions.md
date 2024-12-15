@@ -1,7 +1,7 @@
 ---
 title: >-
   Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
-  From an IT Professional
+  From an AI Professional
 slug: cloud-based-disaster-recovery-solutions
 date: '2024-07-03'
 excerpt: >-

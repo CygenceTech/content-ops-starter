@@ -233,7 +233,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Off-site Backup & Recovery
+        title: AI Backups
         tagline: ''
         subtitle: ''
         text: ''

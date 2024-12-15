@@ -138,7 +138,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /contact-us
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: primary

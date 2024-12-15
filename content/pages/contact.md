@@ -8,7 +8,7 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: ''
-    text: "Cygence Technology\n\n**Phone**:\_<tel:201-984-3726>\n\n**Email**: \_<info@cygencetech.com>\n"
+    text: "Cygence Technology\n\n**Phone**:\_[201-984-3726](tel:201-984-3726)\n\n**Email**: \_<info@cygencetech.com>\n"
     actions: []
     media:
       type: FormBlock

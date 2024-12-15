@@ -100,10 +100,10 @@ sections:
           Services](https://cygencetech.com/ai-network-security/)
 
 
-          Working with a managed IT company brings you access to a range of
+          Working with a managed AI company brings you access to a range of
           skill sets, from those who can consult on the best wiring for your
-          next IT project, to those with compliance expertise in your area of
-          business. With us handling your IT, you’ll have one less thing to
+          next AI project, to those with compliance expertise in your area of
+          business. With us handling your AI, you’ll have one less thing to
           worry about.
         image:
           type: ImageBlock

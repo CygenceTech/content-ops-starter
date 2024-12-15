@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Technology and IT Support in Manufacturing: Driving Efficiency and Innovation'
+title: 'Technology and AI Support in Manufacturing: Driving Efficiency and Innovation'
 date: '2024-04-11'
 author: content/data/person1.json
 excerpt: 'Technology and IT Support in Manufacturing: Driving Efficiency and Innovation'
@@ -17,10 +17,10 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: >-
-    Technology and IT Support in Manufacturing: Driving Efficiency and
+    Technology and AI Support in Manufacturing: Driving Efficiency and
     Innovation
   metaDescription: >-
-    Technology and IT Support in Manufacturing: Driving Efficiency and
+    Technology and AI Support in Manufacturing: Driving Efficiency and
     Innovation
   metaTags: []
   addTitleSuffix: false

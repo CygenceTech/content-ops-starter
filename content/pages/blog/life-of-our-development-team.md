@@ -19,7 +19,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: A Day in the Life of Our Development Team
-  metaDescription: Cygence Technology
+  metaDescription: A Day in the Life of Our Development Team
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark

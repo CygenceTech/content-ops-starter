@@ -3,12 +3,10 @@ type: PostLayout
 title: Surround Yourself With the Right People
 date: '2024-05-29'
 author: content/data/person1.json
-excerpt: >-
-  Cloud-Based Disaster Recovery Solutions: Advantages and Implementation Tips
-  From an IT Professional
+excerpt: Surround Yourself With the Right People
 featuredImage:
   type: ImageBlock
-  url: /images/blog-hipaa1.jpg
+  url: /images/inhousepartner.png
   altText: ''
   styles:
     self:
@@ -19,7 +17,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: Surround Yourself With the Right People
-  metaDescription: Cygence Technology
+  metaDescription: Surround Yourself With the Right People
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark

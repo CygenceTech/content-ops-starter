@@ -35,7 +35,7 @@ sections:
           options:
             - AI Compliance
             - AI Network Assessment
-            - IT On Demand
+            - AI On Demand
             - Managed IT Services
             - Cloud Integration
             - Other

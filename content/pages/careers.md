@@ -18,7 +18,7 @@ sections:
       emphasizes the importance of teamwork, diverse skill sets, and a unified
       vision in achieving breakthrough advancements in AI technology.
     actions:
-      - label: See open positions
+      - label: See open positions below
         url: /careers
         icon: arrowRight
         iconPosition: right

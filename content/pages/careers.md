@@ -19,7 +19,7 @@ sections:
       vision in achieving breakthrough advancements in AI technology.
     actions:
       - label: See open positions
-        url: /
+        url: /careers
         icon: arrowRight
         iconPosition: right
         style: primary

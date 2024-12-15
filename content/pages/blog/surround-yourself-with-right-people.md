@@ -19,9 +19,7 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: Cygence Technology
-  metaDescription: >-
-    Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
-    Information
+  metaDescription: Cygence Technology
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark

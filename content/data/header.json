@@ -193,7 +193,7 @@
                     "type": "Link",
                     "label": "AI Cloud",
                     "altText": "",
-                    "url": "/ai-cloud-security",
+                    "url": "/ai-cloud",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

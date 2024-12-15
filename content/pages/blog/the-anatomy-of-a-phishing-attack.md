@@ -3,7 +3,7 @@ type: PostLayout
 title: 'The Anatomy of a Phishing Attack: Understanding the Tactics'
 date: '2024-06-04'
 author: content/data/person1.json
-excerpt: ''
+excerpt: 'The Anatomy of a Phishing Attack: Understanding the Tactics'
 featuredImage:
   type: ImageBlock
   url: /images/blog-phishing1.jpg

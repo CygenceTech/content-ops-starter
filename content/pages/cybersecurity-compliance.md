@@ -91,7 +91,7 @@ sections:
           them a plan to mitigate these risks.
         image:
           type: ImageBlock
-          url: /images/Security Risk Assessment.png
+          url: /images/cyber.jpg
           altText: Background alt text
           styles:
             self:
@@ -196,8 +196,8 @@ sections:
 slug: /cybersecurity-compliance
 seo:
   type: Seo
-  metaTitle: ''
-  metaDescription: ETECH Cybersecurity & Compliance
+  metaTitle: Cygence Cybersecurity & Compliance
+  metaDescription: Cygence Cybersecurity & Compliance
   metaTags: []
   addTitleSuffix: false
 ---

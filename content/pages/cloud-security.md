@@ -42,7 +42,7 @@ sections:
       - type: FeaturedItem
         title: AI Cloud Security Today
         tagline: ''
-        subtitle: Today
+        subtitle: ''
         text: >
           Cygence AI Cloud Security is a multilayered security solution
           leveraging an extensive set of systems hardening, threat prevention

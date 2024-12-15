@@ -43,13 +43,11 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      *Optimizing Your Business Continuity
+      \*Optimizing Your Business Continuity
 
-      *
+      \*
 
-      -
-
-
+      --
 
 
       Incident Response and Management (IRM) helps businesses to effectively
@@ -58,14 +56,12 @@ sections:
       against the ever-evolving threat landscape.
 
 
-      ETECH is a leading provider of comprehensive IRM services. With
+      Cygence is a leading provider of comprehensive IRM services. With
       experienced cybersecurity practitioners and cutting-edge technology, we
       can help you prepare for, respond to, and recover from a cyber incident.
 
 
       ## *What is Incident Response and Management?*
-
-
 
 
       Incident Response and Management (IRM) is a process for handling incidents
@@ -75,13 +71,11 @@ sections:
       continuity of operations.
 
 
-      *Why is Incident Response and Management Important?
+      \*Why is Incident Response and Management Important?
 
-      *
+      \*
 
-      -
-
-
+      --
 
 
       In today’s digital landscape, businesses are constantly at risk of
@@ -92,12 +86,10 @@ sections:
       your business stay protected in an ever-evolving digital world.
 
 
-      ## *How Can ETECH Help?*
+      ## *How Can Cygence Help?*
 
 
-
-
-      ETECH offers comprehensive IRM services to help businesses prepare for,
+      Cygence offers comprehensive IRM services to help businesses prepare for,
       respond to, and recover from cyber incidents. Our experienced
       cybersecurity practitioners and cutting-edge technology can help you
       effectively contain and mitigate the impact of an incident. We also offer

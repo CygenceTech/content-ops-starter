@@ -76,7 +76,7 @@ sections:
       color: text-dark
     subtitle: ...the Past was Cloud
 slug: /ai-cloud
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Cygence AI Cloud Security

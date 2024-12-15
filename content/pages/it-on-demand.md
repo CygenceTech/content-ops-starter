@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: IT On Demand
+title: AI On Demand
 sections:
   - type: GenericSection
     title:

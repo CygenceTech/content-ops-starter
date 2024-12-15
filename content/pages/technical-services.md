@@ -81,7 +81,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary

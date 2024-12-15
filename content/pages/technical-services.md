@@ -60,7 +60,7 @@ sections:
       to learn how we can grow your business.
 
 
-      [Request Assessment](https://cygencetech.com/service/network-assessment/)
+      [Request Assessment](https://cygencetech.com/network-assessment/)
 
 
       ###### **For AI Companies**

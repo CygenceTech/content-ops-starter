@@ -131,8 +131,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ###
-          [Cybersecurity](https://etechitservice.com/cybersecurity-compliance/)
+          ### [Cybersecurity](https://cygencetech.com/cybersecurity-compliance/)
 
 
           If you prioritize data privacy and compliance standards, we want to

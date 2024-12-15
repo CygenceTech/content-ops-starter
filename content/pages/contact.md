@@ -37,7 +37,7 @@ sections:
             - AI Network Assessment
             - AI On Demand
             - Managed AI Services
-            - Cloud Integration
+            - AI Cloud Integration
             - Other
           isRequired: false
           width: full

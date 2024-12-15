@@ -9,8 +9,8 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      A unified, highly effective cloud cybersecurity solution with advanced
-      risk analytics, hardening, next-gen AV, EDR and XDR
+      A unified, highly effective AI cloud cybersecurity solution with advanced
+      risk analytics, hardening the next-generation of AI Users.
     actions:
       - type: Button
         label: Contact Us

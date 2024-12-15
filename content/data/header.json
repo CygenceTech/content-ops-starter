@@ -41,7 +41,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Pricing",
                     "altText": "",
                     "url": "/pricing",
                     "showIcon": false,

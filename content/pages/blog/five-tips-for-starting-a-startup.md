@@ -18,7 +18,7 @@ isFeatured: true
 isDraft: false
 seo:
   metaTitle: 5 Tips for Starting a Startup
-  metaDescription: ''
+  metaDescription: Cygence Technology
   type: Seo
 colors: bg-light-fg-dark
 styles:

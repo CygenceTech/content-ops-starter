@@ -20,8 +20,6 @@ topSections:
       - >-
         content/pages/blog/technology-and-it-support-in-manufacturing-driving-efficiency-and-innovation.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
-      - >-
-        content/pages/blog/why-hipaa-security-is-non-negotiable-for-businesses.md
       - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/the-anatomy-of-a-phishing-attack.md
       - >-

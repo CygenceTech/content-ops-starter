@@ -18,9 +18,7 @@ slug: /life-of-our-development-team
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: >-
-    Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
-    Information
+  metaTitle: A Day in teh Life of Our Development Team
   metaDescription: Cygence Technology
   addTitleSuffix: false
   metaTags: []

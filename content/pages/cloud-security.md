@@ -72,7 +72,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: The Future is Cloud
       color: text-dark
 slug: cloud-security
 isDraft: true

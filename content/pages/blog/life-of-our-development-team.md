@@ -8,7 +8,7 @@ excerpt: >-
   From an IT Professional
 featuredImage:
   type: ImageBlock
-  url: /images/blog-hipaa1.jpg
+  url: /images/170329-IT-Best-Practices.jpeg
   altText: ''
   styles:
     self:

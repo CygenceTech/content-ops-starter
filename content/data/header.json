@@ -204,7 +204,7 @@
                     "type": "Link",
                     "label": "AI Cloud Security",
                     "altText": "",
-                    "url": "/cloud-security",
+                    "url": "/ai-cloud-security",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

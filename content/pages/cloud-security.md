@@ -74,6 +74,7 @@ sections:
       type: TitleBlock
       text: The Future is Cloud
       color: text-dark
+    subtitle: 'The '
 slug: cloud-security
 isDraft: true
 seo:

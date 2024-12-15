@@ -41,7 +41,7 @@ styles:
     textAlign: center
 seo:
   metaTitle: Blog - Cygence
-  metaDescription: Blog - ETECH IT
+  metaDescription: Blog - Cygence
   type: Seo
   addTitleSuffix: false
 type: PostFeedLayout

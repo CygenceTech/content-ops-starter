@@ -34,7 +34,7 @@ sections:
           defaultValue: Managed AI Services
           options:
             - AI Compliance
-            - Network Assessment
+            - AI Network Assessment
             - IT On Demand
             - Managed IT Services
             - Cloud Integration

@@ -9,12 +9,12 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      A unified, highly effective cloud cybersecurity solution with advanced
-      risk analytics, hardening, next-gen AV, EDR and XDR
+      A unified, highly effective AI cloud cybersecurity solution with advanced
+      risk analytics, hardening the next-generation of AI Users.
     actions:
       - type: Button
         label: Contact Us
-        url: /contact-us
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -23,24 +23,29 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ''
+      label: Cloud Security
       color: text-primary
     colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
     backgroundImage:
       type: BackgroundImage
+      url: /images/mspcloudsecurity.webp
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/mspcloudsecurity.webp
+    styles:
+      self:
+        alignItems: center
   - type: CarouselSection
+    title:
+      type: TitleBlock
+      text: The Future is AI...
+      color: text-dark
+    subtitle: ...the Past was Cloud
     items:
       - type: FeaturedItem
-        title: Cloud Security
+        title: The Now is AI Cloud Security
         tagline: ''
         subtitle: ''
         text: >
@@ -70,10 +75,11 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: cloud-security
+slug: /cloud-security
 isDraft: true
 seo:
   type: Seo
   metaTitle: Cygence AI Cloud Security
   metaDescription: Cygence AI Cloud Security
+  metaTags: []
 ---

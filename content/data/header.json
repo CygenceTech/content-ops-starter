@@ -134,17 +134,6 @@
                     "iconPosition": "right",
                     "style": "primary",
                     "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Cloud Security",
-                    "altText": "",
-                    "url": "/cloud-security",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "primary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
@@ -204,7 +193,7 @@
                     "type": "Link",
                     "label": "AI Cloud Security",
                     "altText": "",
-                    "url": "/cloud-security",
+                    "url": "/ai-cloud-security",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

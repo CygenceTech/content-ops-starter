@@ -18,9 +18,7 @@ slug: /surround-yourself-with-right-people
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: >-
-    Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
-    Information
+  metaTitle: Cygence Technology
   metaDescription: >-
     Why HIPAA Security is Non-Negotiable for Businesses Handling Sensitive
     Information

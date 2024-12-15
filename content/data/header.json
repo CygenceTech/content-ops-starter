@@ -134,6 +134,17 @@
                     "iconPosition": "right",
                     "style": "primary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Cloud Security",
+                    "altText": "",
+                    "url": "/cloud-security",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
